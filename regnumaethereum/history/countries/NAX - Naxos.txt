@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+primary_culture = ageanic
+add_accepted_culture = mesissian
+religion = catholic
+technology_group = western
+capital = 164	# Naxos
+fixed_capital = 164 # Cannot move capital away from this province & no power cost to move to it
+
+# Dukes of Naxos

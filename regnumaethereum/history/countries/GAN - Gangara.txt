@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ra_byzantine
+primary_culture = pontic_hellenic
+religion = orthodox
+capital = 4313	# Nafplio
+fixed_capital = 4313 # Cannot move capital away from this province & no power cost to move to it
+
+# Despots of Morea #

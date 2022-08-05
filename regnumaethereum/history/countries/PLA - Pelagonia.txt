@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+primary_culture = makedonian
+religion = orthodox
+technology_group = ra_byzantine
+capital = 4780	#Athens
+fixed_capital = 4780 # Cannot move capital away from this province & no power cost to move to it

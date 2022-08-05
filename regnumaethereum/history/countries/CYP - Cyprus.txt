@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = katastasi
+primary_culture = ageanic
+religion = orthodox
+technology_group = ra_byzantine
+capital = 321	# Nicosia
+fixed_capital = 321 # Cannot move capital away from this province & no power cost to move to it

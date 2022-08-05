@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = katastasi
+government_rank = 1
+technology_group = ra_byzantine
+primary_culture = mesissian
+religion = orthodox
+capital = 142	# Heraklion
+fixed_capital = 142 
