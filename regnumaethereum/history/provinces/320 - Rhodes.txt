@@ -1,7 +1,7 @@
 #320 - Rhodes
 
-owner = KNI 		# Knights of St. John Hospitaler of Jerusalem
-controller = KNI
+owner = RHO 		# Knights of St. John Hospitaler of Jerusalem
+controller = RHO
 culture = ageanic
 religion = orthodox
 capital = "Rhodes"
@@ -12,7 +12,7 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = KNI
+add_core = RHO
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

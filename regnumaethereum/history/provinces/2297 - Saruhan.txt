@@ -1,9 +1,9 @@
 #2297 - Saruhan
 
-owner = SRU
-controller = SRU
+owner = AEL
+controller = AEL
 culture = mesogeakian
-religion = sunni
+religion = orthodox
 capital = "Manisa"
 trade_goods = cotton
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SRU
+add_core = AEL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

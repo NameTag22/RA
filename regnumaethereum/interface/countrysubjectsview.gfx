@@ -850,6 +850,10 @@ spriteTypes = {
  spriteType = {
 	  	name = "GFX_subject_katastasi"
 	 	texturefile = "gfx/interface/subject_katastasi_icon.dds"
+ spriteType = {
+	  	name = "GFX_katastasi_vassal_is_ours"
+	 	texturefile = "gfx/interface/katastasi_vassal_is_ours.dds"
+
 	}
 
 }

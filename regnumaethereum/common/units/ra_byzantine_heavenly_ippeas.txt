@@ -1,7 +1,7 @@
 # Ottoman Toprakli Dragoon
 
 type = cavalry
-unit_type = byzantine
+unit_type = ra_byzantine
 
 maneuver = 2
 offensive_morale = 5

@@ -3,10 +3,37 @@
  hellenic:0 "Hellenic"
  makedonian:0 "Makedonian"
  pontic_hellenic:0 "Pontic"
- ageanic:0 "Ageanic"
+ ageanic:0 "Aegeanic"
  peloponnesian:0 "Peloponnesian"
  mesissian:0 "Mesissian"
  propontissian:0 "Propontissian"
  tanatolian:0 "Tanatolian"
  mesogeakian:0 "Mesogeakian"
  hellen:0 "Greek"
+ 
+ #caucasian
+ anatoliakan:0 "Anatoliakan"
+ 
+ #mesopotamian
+ mesopotamian:0 "Mesopotamian"
+ assyrian:0 "Assyrian"
+ aramaic:0 "Aramaic"
+ 
+ #east balkanic
+ eastern_balkanic:0 "Getae-Balkanic"
+ dacian:0 "Dacian"
+ thracian:0 "Thracian"
+ visasian:0 "Visasian"
+ 
+ #west balkanic
+ western_balkanic:0 "Latino-Balkanic"
+ pannonian:0 "Pannonian"
+ dalmatian:0 "Dalmatian"
+ lb_albanian:0 "Albanian"
+ #south balkanic
+ southern_balkanic:0 "Palaeo-Balkanic"
+ ra_albanian:0  "Shqiptar"
+ moesian:0 "Moesian"
+ illyrian:0 "Illyrian"
+ pb_pannonian:0 "Pannonii"
+ pb_dalmatian:0 "Dalmataen"

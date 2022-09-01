@@ -3,7 +3,9 @@
 
 #Heir and consort titles are generally kept simple for clarity unless there is something special in particular that can be used.
 theosskia = {
-
+	rank = {
+		3 = EMPIRE
+	}
 	ruler_male = {
 
 		3 = BASILEUS
@@ -35,7 +37,9 @@ theosskia = {
 }
 
 katastasi = {
-
+		rank = {
+		1 = KATASTASI
+	}
 
 	ruler_male = {
 		1 = REGAS 
@@ -65,9 +69,43 @@ katastasi = {
 			culture_group = hellenic
 	}
 }
+megali_katastasi = {
 
+	rank = {
+		1 = MEGALI_KATASTASI
+	}
+	ruler_male = {
+		1 = REGAS 
+	}
+
+	ruler_female = {
+		1 = VASALISSA
+	}
+	
+	consort_male = {
+		1 = REGAS
+	}
+
+	consort_female = {
+		1 = VASILISSA
+	}
+	
+	heir_male = {
+		1 = VASILOPOULA
+	}
+
+	heir_female = {
+		1 = VASILOPOULA
+	}
+	trigger = {
+		
+			culture_group = hellenic
+	}
+}
 doukato = {
-
+	rank = {
+		1 = DOUKATO
+	}
 	ruler_male = {
 		1 = REGAS 
 	}

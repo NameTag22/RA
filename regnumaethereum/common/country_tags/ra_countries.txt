@@ -1,6 +1,7 @@
 # Special countries..
 REB = "countries/Rebels.txt"
-PEL = "countries/Peleponnesia.txt"
+
+#Update 0.1
 CRF = "countries/Corfu2.txt"
 ACY = "countries/Ancyra.txt"
 AEL = "countries/Aelis.txt"
@@ -34,4 +35,46 @@ THE = "countries/Thessaly.txt"
 TMN = "countries/Timonion.txt"
 TPZ = "countries/Trapezus.txt"
 TRL = "countries/Tralles.txt"
+ICO = "countries/Iconium.txt"
+CER = "countries/Cerasus.txt"
+KAI = "countries/Kaisareia.txt"
+EKL = "countries/Ekleipsopolis.txt"
+SIV = "countries/Sevasteia.txt"
+HON = "countries/Honorias.txt"
+PLY = "countries/Polydorion.txt"
+COT = "countries/Cotyaeum.txt"
 
+PEL = "countries/Peleponnesia.txt"
+MAC = "countries/Makedonia.txt"
+KOA = "countries/Anatolia.txt"
+PON = "countries/Pontus.txt"
+HLL = "countries/Hellenia.txt"
+MES = "countries/Mesissia.txt"
+MGS = "countries/Mesogeakia.txt"
+MEA = "countries/MegaliAnatolia.txt"
+TRK = "countries/Thrakia.txt"
+NIS = "countries/Nisia.txt"
+MIP = "countries/Miapatrida.txt"
+
+#Update 0.2
+CIL = "countries/Cilicia.txt"
+
+#Update 0.3
+ILY = "countries/Illyria.txt"
+PAO = "countries/Pannonia.txt"
+IST = "countries/Istrosia.txt"
+SLT = "countries/Silistra.txt"
+DLM = "countries/Dalmatia2.txt"
+FLU = "countries/Flumen.txt"
+MEO = "countries/Moesia.txt"
+
+#Update 0.4
+OLT = "countries/Oltenia.txt"
+VLH = "countries/Valahia.txt"
+BOG = "countries/Bogdania.txt"
+BNT = "countries/Banat.txt"
+AKD = "countries/Aksidava.txt"
+ALD = "countries/Albodava.txt"
+BTB = "countries/Butabaur.txt"
+
+DAC = "countries/Dacia.txt"

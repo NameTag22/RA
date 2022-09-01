@@ -1,7 +1,8 @@
 ﻿l_english:
- #hellenic
+ #tech
  ra_byzantine:0 "Hellenic"
  
+ #unit names and desc
  ra_byzantine_spearmen:0 "Akontistís Infantry"
  ra_byzantine_gennaios:0 "Gennaios Cavalry"
  ra_byzantine_knight:0 "Moiraios Knights"
@@ -18,3 +19,6 @@
  ra_byzantine_reformed_knight:0 "Reformed Adamastos Infantry"
  ra_byzantine_adamanos:0 "Adamastos Infantry"
  ra_byzantine_divine_ippeas:0 "Divine Ippeas Dragoon"
+ 
+ #sprite packs
+ ra_byzantine_sprite_pack:0 "Byzantine (RA) Sprite Pack"

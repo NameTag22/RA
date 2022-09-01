@@ -1,7 +1,7 @@
 #330 - Trebizond
 
-owner = TRE
-controller = TRE
+owner = TPZ
+controller = TPZ
 culture = pontic_hellenic
 religion = orthodox
 capital = "Trapezous"
@@ -12,7 +12,7 @@ base_production = 4
 base_manpower = 4
 is_city = yes
 fort_15th = yes #Trebizond Castle
-add_core = TRE
+add_core = TPZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

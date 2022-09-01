@@ -1,9 +1,9 @@
 #1846 - Amasya
 
-owner = TUR
-controller = TUR
+owner = AME
+controller = AME
 culture = pontic_hellenic
-religion = sunni
+religion = orthodox
 capital = "Amasya"
 trade_goods = paper #and iron
 hre = no
@@ -11,9 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = TUR
-add_core = ERE
-
+add_core = AME
 
 
 discovered_by = western

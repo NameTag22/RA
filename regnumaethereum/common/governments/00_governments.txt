@@ -40,6 +40,7 @@ monarchy = {
 				theosskia
 				katastasi
 				doukato
+				megali_katstasi
 			}
 		}
 		hereditary_vs_nobility = {
@@ -153,6 +154,7 @@ monarchy = {
 		doukato_legacy
 		katastasi_legacy
 		theosskia_legacy
+		megali_katastasi_legacy
 	}
 
 	# Each group of exclusive reforms are mutually exclusive to each other

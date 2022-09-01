@@ -1,9 +1,9 @@
 #2298 - Tekke
 
-owner = TUR
-controller = TUR
+owner = ATL
+controller = ATL
 culture = mesogeakian
-religion = sunni
+religion = orthodox
 capital = "Adalia"
 trade_goods = cotton
 hre = no
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MEN
-add_core = TUR
+add_core = ATL
 
 
 

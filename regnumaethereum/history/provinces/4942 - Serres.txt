@@ -1,7 +1,7 @@
 #2750 - Plovdiv / Upper Thrace
 
-owner = TUR
-controller = TUR
+owner = SRE
+controller = SRE
 culture = makedonian
 religion = orthodox
 capital = "Serres"
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TUR
-add_core = BUL
+add_core = SRE
 
 
 

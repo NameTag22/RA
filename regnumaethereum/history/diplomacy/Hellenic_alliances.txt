@@ -177,13 +177,6 @@ dependency = {
 dependency = {
 	subject_type = "katastasi_vassal"
 	first = BYZ
-	second = MAG
-	start_date = 1444.1.1
-	end_date = 1879.1.1
-}
-dependency = {
-	subject_type = "katastasi_vassal"
-	first = BYZ
 	second = MOB
 	start_date = 1444.1.1
 	end_date = 1879.1.1
@@ -262,6 +255,83 @@ dependency = {
 	subject_type = "katastasi_vassal"
 	first = BYZ
 	second = TPZ
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = ICO
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = CER
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = KAI
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = EKL
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SIV
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = HON
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = PLY
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = MGN
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = SIN
+	start_date = 1444.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = NAX
+	start_date = 1440.1.1
+	end_date = 1879.1.1
+}
+dependency = {
+	subject_type = "katastasi_vassal"
+	first = BYZ
+	second = COT
 	start_date = 1444.1.1
 	end_date = 1879.1.1
 }

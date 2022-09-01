@@ -1,9 +1,9 @@
 #325 - Kastamonu
 
-owner = CND
-controller = CND
+owner = TMN
+controller = TMN
 culture = pontic_hellenic
-religion = sunni
+religion = orthodox
 capital = "Kastamonu"
 trade_goods = copper
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 5 #Huge copper mine
 base_manpower = 2
 is_city = yes
-add_core = CND
+add_core = TMN
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

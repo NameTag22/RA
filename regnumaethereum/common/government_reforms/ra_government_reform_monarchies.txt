@@ -36,8 +36,8 @@ theosskia = {
 	modifiers = {
 		diplomats = 1
 		envoy_travel_time = -0.25
-		global_manpower_modifier = 0.10
-		vassal_forcelimit_bonus = 0.05
+		vassal_forcelimit_bonus = -1
+		governing_capacity = -150
 		max_absolutism = 5
 	}
 
@@ -70,8 +70,7 @@ katastasi = {
 	modifiers = {
 		global_regiment_recruit_speed = -0.20
 		global_regiment_cost = -0.10
-		fire_damage_received = -0.05
-		shock_damage_received = -0.05
+		siege_ability = 0.10
 		
 	}
 	custom_attributes = {
@@ -115,6 +114,39 @@ doukato = {
 		recover_army_morale_speed = 0.10
 		infantry_power = 0.1
 		governing_capacity = -100
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+megali_katastasi = {
+	icon = "megali_katastasi"
+	allow_normal_conversion = no
+	potential = {
+		NOT = { has_country_flag = formed_japan_flag }
+		overlord = { has_reform = theosskia }
+		NOT = { tag = BYZ }
+	}
+	replacement_on_independence_war = doukato
+	legacy_equivalent = megali_katastasi_legacy
+	fixed_rank = 1
+	maintain_dynasty = yes
+	valid_for_nation_designer = no
+	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	nation_designer_trigger = {
+		culture_group = japanese_g
+		technology_group = chinese
+		capital_scope = { region = anatolia_region }
+				capital_scope = { region = balkan_region }
+	}
+	modifiers = {
+		global_regiment_recruit_speed = -0.25
+		siege_ability = 0.10
+		global_tax_modifier = 0.05
+		prestige_from_land = 0.15
+		
 	}
 	custom_attributes = {
 		locked_government_type = yes

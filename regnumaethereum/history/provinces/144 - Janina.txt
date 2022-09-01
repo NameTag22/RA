@@ -1,7 +1,7 @@
 #144 - Epiros
 
-owner = EPI
-controller = EPI
+owner = ION
+controller = ION
 culture = mesissian
 religion = orthodox
 capital = "Ioannina"
@@ -11,8 +11,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = EPI
-add_core = BYZ
+add_core = ION
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,0 +1,34 @@
+﻿l_english:
+ #religion 
+ apostolic:0 "Apostolic"
+ apostolic_religion_desc:0 "WIP"
+ syriac:0 "Syriac"
+ stavros: "Starvos"
+ khach: "Khach"
+ 
+ apostolic_rebels_demand: "Convert $COUNTRYNAME$"
+ apostolic_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ apostolic_rebels_title: "Religious"
+ apostolic_rebels_name: "$RELIGION$ Zealots"
+ apostolic_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ apostolic_rebels_army: "$RELIGION$ Army"
+ 
+ HOLY_SITE_4947_DESC:0 " "
+ HOLY_SITE_419_DESC:0 " "
+ HOLY_SITE_379_DESC:0 " "
+ HOLY_SITE_151_DESC:0 " "
+ HOLY_SITE_410_DESC:0 " "
+ HOLY_SITE_4947_title:0 "Tarson"
+ HOLY_SITE_419_title:0 "Yerevan"
+ HOLY_SITE_379_title:0 "Yerusaghem"
+ HOLY_SITE_151_title:0 "Constantinople"
+ HOLY_SITE_410_title:0 "Baghdad"
+ 
+ apostolic_blessings:0 "Apostolic Blessings"
+ pick_apostolic_blessing:0 "Pick a Blessing"
+ 
+ ra_scholars_all_around_world:0 "Scholars All Around the World"
+ ra_warriors_of_the_faith:0 "Warriors of the Faith"
+ ra_believer_advisors:0 "Faithful Advisors"
+ ra_conquest_for_our_fathers:0 "Conquest for the Holy Spirit"
+ ra_sparks_of_fire:0 "Sparks of Fire"

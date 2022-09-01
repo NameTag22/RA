@@ -1,9 +1,9 @@
 #329 - Sivas
 
-owner = TUR
-controller = TUR
+owner = SIV
+controller = SIV
 culture = tanatolian
-religion = shiite
+religion = orthodox
 capital = "Sivas"
 trade_goods = livestock
 hre = no
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TUR
-add_core = ERE
+add_core = SIV
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

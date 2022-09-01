@@ -1,9 +1,9 @@
 #324 - Karaman
 
-owner = KAR
-controller = KAR
+owner = CAP
+controller = CAP
 culture = tanatolian
-religion = sunni
+religion = orthodox
 capital = "Cappadocia"
 trade_goods = livestock
 hre = no
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KAR
+add_core = CAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

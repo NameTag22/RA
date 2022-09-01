@@ -1052,8 +1052,14 @@ mecklenburg_area = { #5
 # South Eastern Europe 				   #
 ########################################
 
-macedonia_area = { #5 (Macedonia)
-	148 1853 3001 4702 4780 4942
+south_macedonia_area = { #5 (Macedonia)
+	color = {30 70 112}
+	148 1853 4702 4942
+}
+
+north_macedonia_area = { #5 (Macedonia)
+	color = {75 165 201}
+	3001 4780 4703
 }
 
 morea_area = { #4 Central Greece & Crete
@@ -1064,40 +1070,54 @@ northern_greece_area = { #3 #Northern Greece
 	142 144 147 4699 4698
 }
 
-thrace_area = { #5
+west_thrace_area = { #5
+	4944 4945 2750
+}
+east_thrace_area = { #5
 	149 151 1764 4779 4705
 }
 
 bulgaria_area = { #5
-	150 1765 2746 2750 4703 4944 4945
+	150 1765 2746 
 }
 
 silistria_area = {
 	4704 4706 159
 }
 
-wallachia_area = { #5
-	160 161 2998 4531 4532
+east_wallachia_area = { #5
+	2998 4531 4973 161
 }
 
+west_wallachia_area = { #5
+	160 4532
+}
 moldavia_area = { #5
 	268 1756 2405 4529 4530
 }
 
 transylvania_area = { #4 #Northern Transylvania
-	157 158 1952 4127 4964
+	157 158 1952 4964 4978
 }
 
 southern_transylvania_area = { #3
-	156 1951 4128
+	4974 4127 4128 1951
+}
+
+banat_area = { #3
+	156 4972 1954 4971
 }
 
 slovakia_area = { #5
 	154 162 1318 1772 4236
 }
 
-serbia_area = { #5
-	141 3000 4176 4239 4757 4946
+lower_moesia_area = { #5
+	3000 4946 4970 4176
+}
+
+upper_moesia_area = { #5
+	141 4239 4757 
 }
 
 rascia_area = { #4
@@ -1105,7 +1125,7 @@ rascia_area = { #4
 }
 
 albania_area = { #4
-	143 4174 4175 4750
+	143 4174 4175 4750 4967
 }
 
 bosnia_area = { #5
@@ -1114,7 +1134,7 @@ bosnia_area = { #5
 
 croatia_area = { #4
 	color = { 18 126 16 }
-	131 1826 1828 4752
+	131 1826 1828 4752 4969
 }
 
 slavonia_area = { #4
@@ -1122,16 +1142,16 @@ slavonia_area = { #4
 }
 
 east_adriatic_coast_area = { #3
-	136 137 4753
+	136 137 4753 4968
 }
 
 alfold_area = { #4
-	155 1953 1954 4125
+	153 155 1953 4125 4974 
 }
 
 transdanubia_area = { #5
 	color = { 171 92 22 }
-	135 153 1864 4126 4240
+	135 1864 4126 4240 4977
 }
 
 ########################################
@@ -1200,11 +1220,19 @@ ankara_area = { #3
 }
 
 aegean_archipelago_area = { #4
-	164 320 2348 3003 4700 4965 4966
+	164 320 2348 3003 4700
+}
+crete_area = {
+	color = { 237 237 237 }
+	4965 4966
 }
 
-kastamonu_area = { #4
-	325 328 2299 2304
+western_pontus_area = { #4
+	325 328 2299
+}
+eastern_pontus_area = { #4
+	color = { 19 135 27 }
+	2304 4954 330
 }
 
 karaman_area = { #4
@@ -1213,11 +1241,15 @@ karaman_area = { #4
 
 cukurova_area = { #3
 	color = { 50 177 200 }
-	321 327 2302 4947 4950
+	327 2302 4947 4950
+}
+
+cyprus_area = { 
+	4975 4976
 }
 
 aleppo_area = { #4
-	377 1849 2313 4298 4951
+	377 1849 2313 4951
 }
 
 syria_area = { #4
@@ -1234,7 +1266,7 @@ palestine_area = { #3
 
 dulkadir_area = { # 4
 	color = { 184 54 72 }
-	332 2303 2308 4310
+	332 2303 2308 4310 4298
 }
 
 iraq_arabi_area = { #5 Lower Mesopotamia

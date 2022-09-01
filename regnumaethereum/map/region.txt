@@ -269,13 +269,16 @@ balkan_region = {
 		croatia_area
 		east_adriatic_coast_area
 		bosnia_area
-		serbia_area
+		lower_moesia_area
+		upper_moesia_area
 		rascia_area
 		bulgaria_area
-		macedonia_area
+		north_macedonia_area
+		south_macedonia_area
 		northern_greece_area
 		morea_area
-		thrace_area
+		east_thrace_area
+		west_thrace_area
 		albania_area
 		silistria_area
 		slavonia_area
@@ -289,7 +292,8 @@ carpathia_region = {
 		slovakia_area
 		transylvania_area
 		southern_transylvania_area
-		wallachia_area
+		west_wallachia_area
+		east_wallachia_area
 		moldavia_area
 	}
 }
@@ -349,13 +353,15 @@ anatolia_region = {
 		aydin_area
 		karaman_area
 		rum_area
-		kastamonu_area
+		eastern_pontus_area
+		western_pontus_area
 		erzurum_area
 		north_kurdistan_area
 		dulkadir_area
 		cukurova_area
 		ankara_area
 		aegean_archipelago_area
+		crete_area
 		germiyan_area
 	}
 }
