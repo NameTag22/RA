@@ -5,5 +5,5 @@ primary_culture = tanatolian
 add_accepted_culture = pontic_hellenic
 add_accepted_culture = mesogeakian
 religion = orthodox
-technology_group = ra_byzantine
+technology_group = ottoman
 

@@ -4,5 +4,5 @@ government_rank = 3
 primary_culture = tanatolian
 
 religion = orthodox
-technology_group = ra_byzantine
+technology_group = ottoman
 

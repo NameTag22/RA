@@ -295,6 +295,8 @@ carpathia_region = {
 		west_wallachia_area
 		east_wallachia_area
 		moldavia_area
+		pannoni_plains_area
+		banat_area
 	}
 }
 
@@ -363,6 +365,7 @@ anatolia_region = {
 		aegean_archipelago_area
 		crete_area
 		germiyan_area
+		cyprus_area
 	}
 }
 

@@ -518,6 +518,46 @@ christian = {
 		
 		date = 1517.10.31
 	}
+	
+	celt_cross = {
+		color = { 141 201 28 }   ### 56 194 84 
+		icon = 31
+	
+		allowed_center_conversion = {
+			
+		}
+		country = {
+			same_culture_advisor_cost = -0.25
+			global_unrest = -2
+		}
+		
+		country_as_secondary = {
+			may_perform_slave_raid = yes
+		}
+		
+		uses_church_power = yes				# Uses church power/aspect mechanics
+		
+		aspects = {
+			celt1ra
+			celt2ra
+			celt3ra
+			celt4ra
+			celt5ra
+			celt6ra
+			celt7ra
+			celt8ra
+			celt9ra
+			celt10ra
+			celt11ra
+			celt13ra
+			celt12ra
+			celt14ra
+			celt15ra
+		}
+		aspects_name = CELT_ASPECTS
+		
+		heretic = { GAELIC-NORSE }
+	}
 
 	reformed = {
 		color = { 76 76 229 }

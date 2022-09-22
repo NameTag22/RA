@@ -44,12 +44,12 @@
  PLY:0 "Polydorion"
  COT:0 "Cotyaeum"
  MAC:0 "Makedonia"
- KOA:0 "Anatolia"
+ KOA:0 "Galatia"
  PON:0 "Pontus"
  HLL:0 "Hellenia"
  MES:0 "Mesissia"
  MGS:0 "Mesogeakia"
- MEA:0 "Megali Anatolia"
+ MEA:0 "Anatolia"
  TRK:0 "Thrakia"
  NIS:0 "Nisia"
  MIP:0 "Miapatrida"
@@ -67,14 +67,37 @@
  MEO:0 "Moesia"
  
  #0.4
- OLT:0 "Oltenia"
+ OLT:0 "Cotisonia"
  VLH:0 "Valahia"
- BOG:0 "Bogdania"
+ BOG:0 "Bostarnia"
  BNT:0 "Visasupa"
  AKD:0 "Aksidava"
  ALD:0 "Albodava"
  BTB:0 "Butabaur"
+ 
  DAC:0 "Dacia"
+ GEA:0 "Getae"
+
+ #0.5 
+ SVE:0 "Svelland"
+ HJR:0 "Hjorreyland"
+ VTE:0 "Vitteborg"
+ KO1:0 "Mannborg"
+ KEW:0 "Kernowia"
+ CUM:0 "Cumbria"
+ DOW:0 "Dowfund"
+ ILO:0 "Iloirland"
+ GWT:0 "Gwintland"
+ GAY:0 "Gaelsith"
+ EIG:0 "Eightirland"
+ CYU:0 "Cyumria"
+ 
+ GOI:0 "Goidelia"
+ PCT:0 "Pictland"
+ BRO:0 "Brittonia"
+ BET:0 "Bretland"
+ UCE:0 "United Celtia"
+ ABO:0 "Albion"
  
  
  # ADJ #
@@ -121,13 +144,14 @@
  HON_ADJ:0 "Honoriassian"
  PLY_ADJ:0 "Polydorion"
  COT_ADJ:0 "Cotyaeum"
+ 
  MAC_ADJ:0 "Makedonian"
- KOA_ADJ:0 "Anatolian"
+ KOA_ADJ:0 "Galatian"
  PON_ADJ:0 "Pontic"
  HLL_ADJ:0 "Hellenic"
  MES_ADJ:0 "Mesissian"
  MGS_ADJ:0 "Mesogeakian"
- MEA_ADJ:0 "Megali Anatolian"
+ MEA_ADJ:0 "Anatolian"
  TRK_ADJ:0 "Thrakian"
  NIS_ADJ:0 "Nisian"
  MIP_ADJ:0 "Miapatridan"
@@ -145,11 +169,44 @@
  MEO_ADJ:0 "Moesia"
  
  #0.4
- OLT_ADJ:0 "Oltenian"
+ OLT_ADJ:0 "Cotisonian"
  VLH_ADJ:0 "Valahian"
- BOG_ADJ:0 "Bogdanian"
+ BOG_ADJ:0 "Bostarnian"
  BNT_ADJ:0 "Visasupani"
  AKD_ADJ:0 "Aksidavani"
  ALD_ADJ:0 "Albodavani"
  BTB_ADJ:0 "Butabaurian"
+ 
  DAC_ADJ:0 "Dacian"
+ GEA_ADJ:0 "Getaeni"
+ 
+ #0.5
+ SVE_ADJ:0 "Svelland"
+ HJR_ADJ:0 "Hjorreyland"
+ VTE_ADJ:0 "Vitteborg"
+ KO1_ADJ:0 "Mannborg"
+ KEW_ADJ:0 "Kernowian"
+ CUM_ADJ:0 "Cumbrian"
+ DOW_ADJ:0 "Dowfundian"
+ ILO_ADJ:0 "Iloirlandic"
+ GWT_ADJ:0 "Gwintian"
+ GAY_ADJ:0 "Gaelsithian"
+ EIG_ADJ:0 "Eightirian"
+ CYU_ADJ:0 "Cyumrian"
+ 
+ GOI_ADJ:0 "Goidelic"
+ PCT_ADJ:0 "Pictish"
+ BRO_ADJ:0 "Brittonic"
+ BET_ADJ:0 "Bretlandic"
+ UCE_ADJ:0 "Celtic"
+ ABO_ADJ:0 "Albion"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

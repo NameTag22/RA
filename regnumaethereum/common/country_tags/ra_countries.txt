@@ -78,3 +78,27 @@ ALD = "countries/Albodava.txt"
 BTB = "countries/Butabaur.txt"
 
 DAC = "countries/Dacia.txt"
+GEA = "countries/Getae.txt"
+
+
+#Update 0.5
+SVE = "countries/Svelland.txt"
+HJR = "countries/Hjorreyland.txt"
+VTE = "countries/Vitteborg.txt"
+KO1 = "countries/Mannborg.txt"
+KEW = "countries/Kernowia.txt"
+CYU = "countries/Cyumria.txt"
+CUM = "countries/Cumbria.txt"
+DOW = "countries/Downfund.txt"
+ILO = "countries/Iloirland.txt"
+GWT = "countries/Gwintland.txt"
+GAY = "countries/Gaelsith.txt"
+EIG = "countries/Eightirland.txt"
+
+GOI = "countries/Goidelia.txt"
+PCT = "countries/Pictland.txt"
+ABO = "countries/Albion.txt"
+BET = "countries/Bretland.txt"
+BRO = "countries/Brittonia.txt"
+UCE = "countries/UnitedCeltia.txt"
+

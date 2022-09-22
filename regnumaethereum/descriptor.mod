@@ -10,4 +10,4 @@ tags={
 	"New Nations"
 }
 name="Regnum Aethereum"
-supported_version="1.33.3"
+supported_version="1.34.2.0"

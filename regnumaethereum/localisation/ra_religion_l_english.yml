@@ -1,5 +1,7 @@
 ﻿l_english:
  #religion 
+ 
+ #apostolic
  apostolic:0 "Apostolic"
  apostolic_religion_desc:0 "WIP"
  syriac:0 "Syriac"
@@ -32,3 +34,43 @@
  ra_believer_advisors:0 "Faithful Advisors"
  ra_conquest_for_our_fathers:0 "Conquest for the Holy Spirit"
  ra_sparks_of_fire:0 "Sparks of Fire"
+ 
+ 
+ #celt
+ celt_cross:0 "Diasolasim"
+ celt_cross_religion_desc:0 "WIP"
+ gaelic-norse:0 "Gealic-Norse"
+ 
+ CELT_ASPECT_LONG:0 "Aspect of Faith"
+ CELT_ASPECT_SHORT:0 "aspect"
+ celt_aspect_long:0 "Aspect of Faith"
+ celt_aspect_short:0 "aspect"
+ 
+ celt_cross_rebels_demand: "Convert $COUNTRYNAME$"
+ celt_cross_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ celt_cross_rebels_title: "Religious"
+ celt_cross_rebels_name: "$RELIGION$ Zealots"
+ celt_cross_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ celt_cross_rebels_army: "$RELIGION$ Army"
+ 
+ celt10ra:0 "Intellect of God"
+ celt9ra:0 "Guards of Heaven"
+ celt11ra:0 "Pristine Traders"
+ celt12ra:0 "Respectful Priests"
+ celt8ra:0 "Swift Teachings of Jesus"
+ celt7ra:0 "Crossing Oceans for Holiness"
+ celt6ra:0 "True to the Faith"
+ celt5ra:0 "Crusader Sail"
+ celt4ra:0 "Dripping Blood from Heathens"
+ celt3ra:0 "Notable Bishops"
+ celt1ra:0 "Gold Plated Beliefs"
+ celt13ra:0 "Fortified Cathedrals"
+ celt14ra:0 "Very Honest Diplomats"
+ celt2ra:0 "Dreams of Eden"
+ celt15ra:0 "Orders from the Divine"
+ 
+ 
+ 
+ 
+ 
+ 

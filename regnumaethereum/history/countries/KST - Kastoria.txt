@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = mesissian
 add_accepted_culture = makedonian
 religion = orthodox
-technology_group = ra_byzantine
+technology_group = ottoman
 capital = 1853	#Athens
 fixed_capital = 1853 # Cannot move capital away from this province & no power cost to move to it
 

@@ -3,7 +3,7 @@ add_government_reform = katastasi
 government_rank = 1
 primary_culture = mesissian
 religion = orthodox
-technology_group = ra_byzantine
+technology_group = ottoman
 capital = 4699	#Athens
 fixed_capital = 4699 # Cannot move capital away from this province & no power cost to move to it
 

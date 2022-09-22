@@ -5,5 +5,5 @@ primary_culture = messian
 add_accepted_culture = peloponnesian
 add_accepted_culture = makedonian
 religion = orthodox
-technology_group = ra_byzantine
+technology_group = ottoman
 

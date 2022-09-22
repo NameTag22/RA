@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = katastasi
 government_rank = 1
-technology_group = ra_byzantine
+technology_group = ottoman
 primary_culture = peloponnesian
 religion = orthodox
 capital = 145	# Nafplio
