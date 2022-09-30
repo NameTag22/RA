@@ -552,11 +552,44 @@ christian = {
 			celt13ra
 			celt12ra
 			celt14ra
-			celt15ra
+			
 		}
 		aspects_name = CELT_ASPECTS
 		
 		heretic = { GAELIC-NORSE }
+	}
+	
+	valentic = {
+		color = { 214 32 50 }   ### 56 194 84 
+		icon = 32
+	
+		allowed_center_conversion = {
+			
+		}
+		declare_war_in_regency = yes
+		country = {
+			tolerance_own = 1
+			trade_efficiency = 0.1
+		}
+		
+		country_as_secondary = {
+			trade_efficiency = 0.15
+			
+		}
+		
+		uses_anglican_power = yes				# Uses church power/aspect mechanics
+		
+		aspects = {
+			heir_ed_aspect
+			tra_general_aspect
+			prodval_aspect
+			incomeval_aspect
+			presval_aspect
+			advisorval_aspect
+		}
+		aspects_name = VALENTIC_ASPECTS
+		
+		heretic = { VALENTINE }
 	}
 
 	reformed = {

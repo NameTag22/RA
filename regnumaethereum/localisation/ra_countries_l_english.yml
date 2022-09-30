@@ -100,6 +100,29 @@
  ABO:0 "Albion"
  
  
+ #0.6 
+ ATU:0 "Asturesia"
+ ULA:0 "Ulatajo"
+ GLL:0 "Gallecia"
+ BRD:0 "Berdeny"
+ SLP:0 "Silapuria"
+ FND:0 "Findunia"
+ VLE:0 "Valentia"
+ IBO:0 "Ibossia"
+ BSQ:0 "Basque"
+ BAE:0 "Baetisy"
+ 
+ IBE:0 "Iberia"
+ IBC:0 "Ibertir"
+ LUS:0 "Lusitania"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  # ADJ #
  #0.1
  ACY_ADJ:0 "Ancyranian"
@@ -201,9 +224,21 @@
  UCE_ADJ:0 "Celtic"
  ABO_ADJ:0 "Albion"
  
+ #0.6 
+ ATU_ADJ:0 "Asturesian"
+ ULA_ADJ:0 "Ulatajon"
+ GLL_ADJ:0 "Gallecian"
+ BRD_ADJ:0 "Berdenian"
+ SLP_ADJ:0 "Silapurian"
+ FND_ADJ:0 "Findunian"
+ VLE_ADJ:0 "Valentian"
+ IBO_ADJ:0 "Ibossian"
+ BSQ_ADJ:0 "Basque"
+ BAE_ADJ:0 "Baetisy"
  
- 
- 
+ IBE_ADJ:0 "Iberian"
+ IBC_ADJ:0 "Ibertirian"
+ LUS_ADJ:0 "Lusitania"
  
  
  

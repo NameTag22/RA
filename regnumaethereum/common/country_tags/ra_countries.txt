@@ -102,3 +102,18 @@ BET = "countries/Bretland.txt"
 BRO = "countries/Brittonia.txt"
 UCE = "countries/UnitedCeltia.txt"
 
+#Update 0.6
+ATU = "countries/Asturesia.txt"
+ULA = "countries/Ulsatajo.txt"
+GLL = "countries/Gallecia.txt"
+BRD = "countries/Berdeny.txt"
+SLP = "countries/Silapuria.txt"
+FND = "countries/Findunia.txt"
+VLE = "countries/Valentia.txt"
+IBO = "countries/Ibossia.txt"
+BSQ = "countries/Basque.txt"
+BAE = "countries/Baetisy.txt"
+
+IBE = "countries/Iberia.txt"
+IBC = "countries/CeltIberia.txt"
+LUS = "countries/Lusitania.txt"

@@ -687,6 +687,34 @@ spriteTypes = {
 		name = "GFX_sikh_bg"
 		texturefile = "gfx/interface/sikh_religion_view_bg.dds"
 	}
+
+
+
+
+spriteType = {
+		name = "GFX_heir_ed_icon"
+		texturefile = "gfx/interface/heir_ed_icon.dds"
+	}	
+	
+				spriteType = {
+		name = "GFX_tra_general_icon"
+		texturefile = "gfx/interface/tra_general_icon.dds"
+	}	
+	
+				spriteType = {
+		name = "GFX_income_val_icon"
+		texturefile = "gfx/interface/income_val_icon.dds"
+	}	
+	
+				spriteType = {
+		name = "GFX_prod_val_icon"
+		texturefile = "gfx/interface/prod_val_icon.dds"
+	}	
+spriteType = {
+		name = "GFX_pres_val_icon"
+		texturefile = "gfx/interface/pres_val_icon.dds"
+	}
+
 }	
 
 

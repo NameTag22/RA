@@ -1254,23 +1254,6 @@ celtic	= {
 			Stiubhart Singlear Sutherlarach
 		}
 	}
-		celtiberian = {
-		dynasty_names = {
-			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone
-		}
-		male_names = {
-			Bandua Berobreus Bormanicus Cossus Reue Lugus Endovelicus Viriathus Punicus Cesarus Caucenus Tautalus
-			Caros Corocotta Gauson Toutonus Totonus Arceltius Latronius Rotamus Pentinus Progenei Cloutius Meiduenus
-			Mezukenos Ambon Babpo Buntalos Caciro Lesson Letondon Liteno Lubbo Olindico Pirreso Sigilo Thurro Uxentio
-			Retogeno Magavarico
-		}
-		female_names = {
-			Nabia Coventina Stena
-			Mairead Marsail Marta Milread Moibeal Moire Mor Mairi
-			Nansaidh
-			Olibhia Oighrig
-		}
-	}
 }
 	
 latin = {
@@ -1534,7 +1517,7 @@ ra_iberian	= {
 	}
 	
 	ra_valentian = {
-		primary = 
+		primary = VLE
 		dynasty_names = {
 			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone "de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
 			Téllez-Girón "Manrique de Lara" "de Ávalos" Enríquez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalá"
@@ -1622,7 +1605,7 @@ ra_iberian	= {
 		}
 	}
 	castrox = {
-		primary = GAL
+		primary = GLL
 		dynasty_names = {
 			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone "de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
 			Téllez-Girón "Manrique de Lara" "de Ávalos" Enríquez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalá"
@@ -4035,7 +4018,7 @@ western_balkanic = {
 ra_basque = { 
 	graphical_culture = westerngfx
 	basque = {
-		primary = NAV
+		primary = BSQ
 		dynasty_names = {
 			"de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" Escors 
 			# CKII

@@ -67,10 +67,35 @@
  celt13ra:0 "Fortified Cathedrals"
  celt14ra:0 "Very Honest Diplomats"
  celt2ra:0 "Dreams of Eden"
- celt15ra:0 "Orders from the Divine"
  
+ #valentic
+ valentic:0 "Valentic"
+ valentic_religion_desc:0 "WIP"
+ valentine:0 "Valentine"
  
+ VALENTIC_ASPECT_LONG:0 "Aspect of Faith"
+ VALENTIC_ASPECT_SHORT:0 "aspect"
+ valentic_aspect_long:0 "Aspect of Faith"
+ valentic_aspect_short:0 "aspect"
  
+ valentic_rebels_demand: "Convert $COUNTRYNAME$"
+ valentic_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ valentic_rebels_title: "Religious"
+ valentic_rebels_name: "$RELIGION$ Zealots"
+ valentic_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ valentic_rebels_army: "$RELIGION$ Army"
+ 
+ presval_aspect:0 "Servents of Ethereal Kingdom"
+ prodval_aspect:0 "Eden Dreams"
+ incomeval_aspect:0 "Endowment of Church"
+ tra_general_aspect:0 "Blood Dripping Cross"
+ heir_ed_aspect:0 "Intelligence from Angels"
+ 
+ desc_presval_aspect:0 "Gain §G1§! Stability and §G15§! Prestige."
+ desc_prodval_aspect:0 "Gain §G1§! Mercantilism and a random §YProvince§! which has either a §OPaper, Silk, Iron, Gem, Glass§! trade good gains §T+1 Production§!."
+ desc_incomeval_aspect:0 "Get §G%20§! of Our Kingdom's Yearly Income and take a §YLoan§! which has §G2§! Interest Rate."
+ desc_tra_general_aspect:0 "Gain General with §G90§! tradition."
+ desc_heir_ed_aspect:0 "Grants §YCurrent Heir§! with a random §TMonarch Point§."
  
  
  
