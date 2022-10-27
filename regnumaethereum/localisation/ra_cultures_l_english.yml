@@ -62,3 +62,21 @@
  
  #basque
  ra_basque:0 "Basque"
+ 
+ #latin
+ ita_dalmatian:0 "Dalmatan"
+ raetian:0 "Raetian"
+ ra_ligurian:0 "Ligurian"
+ ra_tremarian:0 "Tremarian"
+ 
+ #gaullish
+ gaullish:0 "Gaullish"
+ belgican:0 "Belgican"
+ helvetian:0 "Helvetian"
+ vennetic:0 "Vennetic"
+ santonestic:0 "Santonestic"
+ loigerian:0 "Loigerian"
+ sequani:0 "Sequani"
+ aremorican:0 "Aremorican"
+ treverian:0 "Treverian"
+ 

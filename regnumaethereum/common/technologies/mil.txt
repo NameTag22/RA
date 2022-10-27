@@ -312,6 +312,7 @@ technology = {
 	weapons = yes
 	
 	combat_width = 2
+	police = yes
 }
 	
 technology = {
@@ -506,6 +507,7 @@ technology = {
 	enable = ra_byzantine_reformed_ippiko
 	
 	combat_width = 2
+	bigpolice = yes
 }
 
 technology = {
@@ -701,6 +703,7 @@ technology = {
 	artillery_fire		=	2.0
 	
 	enable = royal_mortar	
+	greatsilo = yes
 }
 
 technology = {
