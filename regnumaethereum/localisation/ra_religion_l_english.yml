@@ -98,4 +98,106 @@
  desc_heir_ed_aspect:0 "Grants §YCurrent Heir§! with a random §TMonarch Point§."
  
  
+ #nestorian
+ nestorian:0 "Nestorian"
+ nestorian_religion_desc:0 "WIP"
+ old_nestorian:0 "Syriac"
  
+ NESTORIAN_ASPECT_LONG:0 "Aspect of Faith"
+ NESTORIAN_ASPECT_SHORT:0 "aspect"
+ nestorian_aspect_long:0 "Aspect of Faith"
+ nestorian_aspect_short:0 "aspect"
+ 
+ nestorian_rebels_demand: "Convert $COUNTRYNAME$"
+ nestorian_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ nestorian_rebels_title: "Religious"
+ nestorian_rebels_name: "$RELIGION$ Zealots"
+ nestorian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ nestorian_rebels_army: "$RELIGION$ Army"
+ 
+ #zunism
+ zunism:0 "Zunism"
+ zunism_religion_desc:0 "WIP"
+ old_zun:0 "Zun"
+ 
+ ZUNISM_ASPECT_LONG:0 "Aspect of Faith"
+ ZUNISM_ASPECT_SHORT:0 "aspect"
+ zunism_aspect_long:0 "Aspect of Faith"
+ zunism_aspect_short:0 "aspect"
+ 
+ zunism_rebels_demand: "Convert $COUNTRYNAME$"
+ zunism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ zunism_rebels_title: "Religious"
+ zunism_rebels_name: "$RELIGION$ Zealots"
+ zunism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ zunism_rebels_army: "$RELIGION$ Army"
+ 
+ #baltic_rel
+ baltic_rel:0 "Romuva"
+ baltic_rel_religion_desc:0 "WIP"
+ old_baltic:0 "Old Romuva"
+ 
+ BALTIC_REL_ASPECT_LONG:0 "Aspect of Faith"
+ BALTIC_REL_ASPECT_SHORT:0 "aspect"
+ baltic_rel_aspect_long:0 "Aspect of Faith"
+ baltic_rel_aspect_short:0 "aspect"
+ 
+ baltic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ baltic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ baltic_rel_rebels_title: "Religious"
+ baltic_rel_rebels_name: "$RELIGION$ Zealots"
+ baltic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ baltic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ 
+ #slavic_rel
+ slavic_rel:0 "Rodnevery"
+ slavic_rel_religion_desc:0 "WIP"
+ old_slavic:0 "Old Slavic"
+ 
+ SLAVIC_REL_ASPECT_LONG:0 "Aspect of Faith"
+ SLAVIC_REL_ASPECT_SHORT:0 "aspect"
+ slavic_rel_aspect_long:0 "Aspect of Faith"
+ slavic_rel_aspect_short:0 "aspect"
+ 
+ slavic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ slavic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ slavic_rel_rebels_title: "Religious"
+ slavic_rel_rebels_name: "$RELIGION$ Zealots"
+ slavic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ slavic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ 
+ #mani_rel
+ mani_rel:0 "Manichean"
+ mani_rel_religion_desc:0 "WIP"
+ old_mani:0 "Mani"
+ 
+ MANI_REL_ASPECT_LONG:0 "Aspect of Faith"
+ MANI_REL_ASPECT_SHORT:0 "aspect"
+ mani_rel_aspect_long:0 "Aspect of Faith"
+ mani_rel_aspect_short:0 "aspect"
+ 
+ mani_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ mani_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ mani_rel_rebels_title: "Religious"
+ mani_rel_rebels_name: "$RELIGION$ Zealots"
+ mani_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ mani_rel_rebels_army: "$RELIGION$ Army"
+ 
+ #jainism
+ jainism:0 "Jainism"
+ jainism_religion_desc:0 "WIP"
+ jain:0 "Jain"
+ 
+ MANI_REL_ASPECT_LONG:0 "Aspect of Faith"
+ MANI_REL_ASPECT_SHORT:0 "aspect"
+ jainism_aspect_long:0 "Aspect of Faith"
+ jainism_aspect_short:0 "aspect"
+ 
+ jainism_rebels_demand: "Convert $COUNTRYNAME$"
+ jainism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ jainism_rebels_title: "Religious"
+ jainism_rebels_name: "$RELIGION$ Zealots"
+ jainism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ jainism_rebels_army: "$RELIGION$ Army"
