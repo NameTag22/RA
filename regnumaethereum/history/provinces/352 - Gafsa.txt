@@ -1,0 +1,10 @@
+capital = Gafsa
+owner = NVL
+controller = NVL
+add_core = NVL
+culture = amazigh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,9 @@
+capital = Fezzan
+owner = TFI
+controller = TFI
+add_core = TFI
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

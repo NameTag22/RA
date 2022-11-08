@@ -1,0 +1,10 @@
+capital = Djerba
+owner = GBA
+controller = GBA
+add_core = GBA
+culture = outremer
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

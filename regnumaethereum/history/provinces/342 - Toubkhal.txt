@@ -1,0 +1,10 @@
+capital = Toubkhal
+owner = CTA
+controller = CTA
+add_core = CTA
+culture = africano
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

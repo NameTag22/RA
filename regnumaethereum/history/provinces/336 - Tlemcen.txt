@@ -1,0 +1,10 @@
+capital = Tlemcen
+owner = HRU
+controller = HRU
+add_core = HRU
+culture = amazigh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

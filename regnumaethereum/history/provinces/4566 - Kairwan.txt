@@ -1,0 +1,10 @@
+capital = Kairwan
+owner = CTG
+controller = CTG
+add_core = CTG
+culture = amazigh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

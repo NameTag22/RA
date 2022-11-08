@@ -1,0 +1,10 @@
+capital = Draa
+owner = FUU
+controller = FUU
+add_core = FUU
+culture = amazigh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

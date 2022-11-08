@@ -1,0 +1,10 @@
+capital = Mzab
+owner = MSN
+controller = MSN
+add_core = MSN
+culture = amazigh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
