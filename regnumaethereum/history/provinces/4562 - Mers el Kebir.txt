@@ -1,4 +1,4 @@
-capital = Mers el Kebir
+capital = "Mers el Kebir"
 owner = TNZ
 controller = TNZ
 add_core = TNZ

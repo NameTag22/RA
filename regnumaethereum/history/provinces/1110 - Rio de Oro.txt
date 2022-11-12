@@ -1,4 +1,4 @@
-capital = Rio de Oro
+capital = "Rio de Oro"
 owner = AGD
 controller = AGD
 add_core = AGD
