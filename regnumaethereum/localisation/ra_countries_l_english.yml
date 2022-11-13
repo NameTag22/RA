@@ -135,7 +135,29 @@
  MLT:0 "Malta"
  AUP:0 "Apulia"
  
- 
+ # 0.8
+CTG:0 "Carthago"
+GBA:0 "Gerba"
+CBL:0 "Cabilia"
+CYC:0 "Cyrenaica"
+CTA:0 "Ceuta"
+DKK:0 "Dukkala"
+AGD:0 "Agadir"
+AGW:0 "Agwmar"
+DHY:0 "Dihya"
+FUU:0 "Fourou"
+GHN:0 "Ghania"
+HRU:0 "Herru"
+ITT:0 "Ittu"
+JBA:0 "Juba"
+LMT:0 "Lemta"
+MSN:0 "Massin"
+NVL:0 "Navil"
+TFI:0 "Tadefi"
+FKL:0 "Faklit"
+TNZ:0 "Tunaruz"
+TZD:0 "Tzeddig"
+
  
  # ADJ #
  #0.1
@@ -272,3 +294,25 @@
  MLT_ADJ:0 "Maltese"
  AUP_ADJ:0 "Apulian"
  
+ # 0.8
+CTG_ADJ:0 "Carthaginian"
+GBA_ADJ:0 "Gerban"
+CBL_ADJ:0 "Cabilian"
+CYC_ADJ:0 "Cyrenaican"
+CTA_ADJ:0 "Ceutan"
+DKK_ADJ:0 "Dukkalan"
+AGD_ADJ:0 "Agadirian"
+AGW_ADJ:0 "Agwmaran"
+DHY_ADJ:0 "Dihyan"
+FUU_ADJ:0 "Fourouan"
+GHN_ADJ:0 "Ghanian"
+HRU_ADJ:0 "Herruan"
+ITT_ADJ:0 "Ittuan"
+JBA_ADJ:0 "Juban"
+LMT_ADJ:0 "Lemtan"
+MSN_ADJ:0 "Massinian"
+NVL_ADJ:0 "Navilan"
+TFI_ADJ:0 "Tadefian"
+FKL_ADJ:0 "Faklitian"
+TNZ_ADJ:0 "Tunaruzian"
+TZD_ADJ:0 "Tzeddigan"
