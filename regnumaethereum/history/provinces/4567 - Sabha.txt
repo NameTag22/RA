@@ -1,9 +1,9 @@
-capital = Sabha
+capital = "Sabha"
 owner = TFI
 controller = TFI
 add_core = TFI
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

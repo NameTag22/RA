@@ -1,9 +1,9 @@
-﻿capital = Constantine
+capital = "Constantine"
 owner = CBL
 controller = CBL
 add_core = CBL
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

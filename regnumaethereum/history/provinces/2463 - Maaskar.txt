@@ -1,9 +1,9 @@
-capital = Kasdir
+capital = "Kasdir"
 owner = ITT
 controller = ITT
 add_core = ITT
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

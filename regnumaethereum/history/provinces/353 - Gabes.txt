@@ -1,8 +1,8 @@
-capital = Tataouine
+capital = "Tataouine"
 owner = GBA
 controller = GBA
 add_core = GBA
-culture = africano
+culture = outremer
 religion = catholic
 hre = no
 base_tax = 1

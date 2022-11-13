@@ -1,4 +1,4 @@
-capital = Djerba
+capital = "Djerba"
 owner = GBA
 controller = GBA
 add_core = GBA

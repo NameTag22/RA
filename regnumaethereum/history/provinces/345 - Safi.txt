@@ -1,4 +1,4 @@
-capital = Safi
+capital = "Safi"
 owner = DKK
 controller = DKK
 add_core = DKK

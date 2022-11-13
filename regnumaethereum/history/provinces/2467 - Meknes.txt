@@ -1,9 +1,9 @@
-capital = Meknes
+capital = "Meknes"
 owner = AGW
 controller = AGW
 add_core = AGW
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

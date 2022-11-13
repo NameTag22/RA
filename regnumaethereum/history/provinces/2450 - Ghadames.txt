@@ -1,9 +1,9 @@
-capital = Ghadames
+capital = "Ghadames"
 owner = NVL
 controller = NVL
 add_core = NVL
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

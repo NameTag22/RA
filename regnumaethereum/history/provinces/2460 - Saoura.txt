@@ -1,9 +1,9 @@
-capital = Saoura
+capital = "Saoura"
 owner = GHN
 controller = GHN
 add_core = GHN
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

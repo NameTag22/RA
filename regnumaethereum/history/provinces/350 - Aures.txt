@@ -1,9 +1,9 @@
-capital = Aures
+capital = "Aures"
 owner = LMT
 controller = LMT
 add_core = LMT
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

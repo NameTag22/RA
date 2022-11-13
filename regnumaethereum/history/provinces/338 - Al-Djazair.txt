@@ -1,4 +1,4 @@
-capital = Al-Djazair
+capital = "Al-Djazair"
 owner = TZD
 controller = TZD
 add_core = TZD

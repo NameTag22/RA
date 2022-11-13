@@ -1,4 +1,4 @@
-capital = Dahra
+capital = "Dahra"
 owner = TZD
 controller = TZD
 add_core = TZD

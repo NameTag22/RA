@@ -1,4 +1,4 @@
-capital = Bizerte
+capital = "Bizerte"
 owner = CTG
 controller = CTG
 add_core = CTG

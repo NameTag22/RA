@@ -1,9 +1,9 @@
-capital = Ifni
+capital = "Ifni"
 owner = AGD
 controller = AGD
 add_core = AGD
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

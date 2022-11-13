@@ -1,9 +1,9 @@
-capital = Hodna
+capital = "Hodna"
 owner = JBA
 controller = JBA
 add_core = JBA
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

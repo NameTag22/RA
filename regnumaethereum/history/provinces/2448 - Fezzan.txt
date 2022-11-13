@@ -1,8 +1,9 @@
-capital = Fezzan
+capital = "Fezzan"
 owner = TFI
 controller = TFI
 add_core = TFI
-religion = catholic
+culture = amazigh
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

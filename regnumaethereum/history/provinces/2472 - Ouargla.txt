@@ -1,9 +1,9 @@
-capital = Ouargla
+capital = "Ouargla"
 owner = MSN
 controller = MSN
 add_core = MSN
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

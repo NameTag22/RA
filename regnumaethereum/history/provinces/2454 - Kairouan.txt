@@ -1,9 +1,9 @@
-capital = Kairouan
+capital = "Kairouan"
 owner = CTG
 controller = CTG
 add_core = CTG
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1

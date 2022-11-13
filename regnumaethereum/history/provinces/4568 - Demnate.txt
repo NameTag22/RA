@@ -1,9 +1,9 @@
-capital = Demnate
+capital = "Demnate"
 owner = DHY
 controller = DHY
 add_core = DHY
 culture = amazigh
-religion = catholic
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1
