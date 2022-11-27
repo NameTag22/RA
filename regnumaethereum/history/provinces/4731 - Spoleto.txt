@@ -1,4 +1,4 @@
-﻿capital = "Spoleto"
+capital = "Spoleto"
 owner = PAP
 controller = PAP
 add_core = PAP
