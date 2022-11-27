@@ -1,18 +1,16 @@
-#372 - Tyrone
-
+﻿capital = "Armagh"
 owner = IRE
 controller = IRE
+add_core = IRE
 culture = ra_irish
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = wool
 base_manpower = 2
-capital = "Armagh"
-is_city = yes
-add_core = IRE
+trade_goods = wool
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

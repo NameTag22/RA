@@ -1,0 +1,17 @@
+﻿capital = "Chartres"
+owner = VRL
+controller = VRL
+add_core = VRL
+culture = aremorican
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 6
+trade_goods = cloth
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+fort_15th = yes

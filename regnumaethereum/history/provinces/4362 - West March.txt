@@ -1,19 +1,17 @@
-#4362 - West March (Dumfriesshire+Kircudbrightshire)
-
+capital = "Dumfries"
 owner = GAY
 controller = GAY
+add_core = GAY
 culture = cumbric
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = wool
 base_manpower = 2
-capital = "Dumfries"
+trade_goods = wool
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
 fort_15th = yes
 is_city = yes
-add_core = GAY
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern

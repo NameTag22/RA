@@ -1,0 +1,16 @@
+capital = "Montpellier"
+owner = ALI
+controller = ALI
+add_core = ALI
+culture = narbonentic
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 5
+base_manpower = 5
+trade_goods = cloth
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

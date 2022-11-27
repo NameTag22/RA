@@ -1,0 +1,17 @@
+capital = "Poitiers"
+owner = RIT
+controller = RIT
+add_core = RIT
+culture = santonestic
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+trade_goods = livestock
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+fort_15th = yes

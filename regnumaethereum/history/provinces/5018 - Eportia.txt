@@ -1,0 +1,16 @@
+﻿capital = "Remis1"
+owner = EPR
+controller = EPR
+add_core = EPR
+culture = treverian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+trade_goods = wine
+is_city = yes 

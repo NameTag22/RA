@@ -1,22 +1,16 @@
-#228 - Beira
-
+﻿capital = "Viseu"
 owner = BRD
 controller = BRD
+add_core = BRD
 culture = lusitan
 religion = catholic
-capital = "Viseu"
-trade_goods = wine
 hre = no
-base_tax = 4 
+base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = BRD
-
-
-
+trade_goods = wine
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
-
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

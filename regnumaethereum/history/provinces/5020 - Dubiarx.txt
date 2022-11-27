@@ -1,0 +1,16 @@
+capital = "Troyes1"
+owner = DBX
+controller = DBX
+add_core = DBX
+culture = treverian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = salt
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

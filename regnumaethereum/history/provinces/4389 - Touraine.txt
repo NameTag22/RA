@@ -1,0 +1,17 @@
+capital = "Tours"
+owner = RIT
+controller = RIT
+add_core = RIT
+culture = santonestic
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = cloth
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+add_local_autonomy = 10

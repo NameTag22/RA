@@ -1,21 +1,16 @@
-#246 - Northumberland
-#+Durham
-
-
+capital = "Newcastle"
 owner = CUM
 controller = CUM
+add_core = CUM
 culture = cumbric
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 2
-trade_goods = wool
 base_manpower = 3
-capital = "Newcastle"
-is_city = yes
-add_core = CUM
-
+trade_goods = wool
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

@@ -1,21 +1,16 @@
-# 4730 - Bologna
-
+capital = "Bologna"
 owner = BLG
 controller = BLG
-culture = umbrian 
-religion = catholic 
+add_core = BLG
+culture = umbrian
+religion = catholic
 hre = yes
 base_tax = 5
 base_production = 4
-trade_goods = cloth
 base_manpower = 3
-capital = "Bologna"
-is_city = yes
-add_core = BLG
-
-
-
+trade_goods = cloth
 discovered_by = western
 discovered_by = eastern
-discovered_by = muslim
 discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

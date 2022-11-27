@@ -1,17 +1,15 @@
-#407 - Ar-Raqqah
-
+capital = "Ar Rakkah"
 owner = SYR
 controller = SYR
+add_core = SYR
 culture = aramaic
-religion = apostolic
-capital = "Ar Rakkah"
-trade_goods = livestock
+religion = nestorian
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = livestock
 is_city = yes
-add_core = SYR
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

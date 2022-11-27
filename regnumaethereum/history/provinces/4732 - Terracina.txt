@@ -1,19 +1,16 @@
-#4732 - Terracina
-
+﻿capital = "Terracina"
 owner = PAP
 controller = PAP
-culture = umbrian 
-religion = catholic 
+add_core = PAP
+culture = umbrian
+religion = catholic
 hre = yes
 base_tax = 3
 base_production = 3
+base_manpower = 1
 trade_goods = fish
-base_manpower = 1		# Pontine Marshes
-capital = "Terracina"
-is_city = yes
-add_core = PAP
 discovered_by = western
 discovered_by = eastern
-discovered_by = muslim
 discovered_by = ottoman
-
+discovered_by = muslim
+is_city = yes

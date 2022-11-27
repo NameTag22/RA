@@ -1,0 +1,20 @@
+﻿capital = "Antwerp"
+owner = BLF
+controller = BLF
+add_core = BLF
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 3
+trade_goods = glass
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+fort_15th = yes
+extra_cost = 16
+center_of_trade = 2
+

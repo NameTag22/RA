@@ -1,22 +1,16 @@
-#232 - Bragança
-
+ï»¿capital = "Braganï¿½a"
 owner = GLLL
 controller = GLL
+add_core = GLL
 culture = castrox
 religion = catholic
-capital = "Bragança"
-trade_goods = wine
 hre = no
-base_tax = 5 
+base_tax = 5
 base_production = 5
 base_manpower = 2
-is_city = yes
-add_core = GLL
-
-
-
+trade_goods = wine
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
-
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

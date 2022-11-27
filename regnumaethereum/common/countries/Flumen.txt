@@ -31,7 +31,7 @@ historical_units = {
 	open_order_cavalry
 	napoleonic_square
 	napoleonic_lancers
-
+}
 monarch_names = {
 	"Gjergj #0" = 20
 	"Lekë #0" = 20

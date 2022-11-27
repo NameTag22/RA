@@ -1,15 +1,13 @@
-#462 - Mingrelia
-
+capital = "Zugdidi"
 owner = IME
 controller = IME
 culture = georgian
-religion = orthodox
-capital = "Zugdidi"
-trade_goods = wine
+religion = apostolic
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 2
 base_manpower = 2
+trade_goods = wine
 is_city = yes
 add_core = GEO
 add_core = IME

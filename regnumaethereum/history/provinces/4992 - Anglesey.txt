@@ -1,18 +1,16 @@
-#242 - Gwynedd
-
+﻿capital = "Caernarvon"
 owner = CYU
 controller = CYU
+add_core = CYU
 culture = cyumrish
 religion = catholic
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 1
-trade_goods = livestock
 base_manpower = 1
-capital = "Caernarvon"
-is_city = yes
-add_core = CYU
+trade_goods = livestock
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
