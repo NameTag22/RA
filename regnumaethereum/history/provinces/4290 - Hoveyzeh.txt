@@ -1,9 +1,9 @@
 capital = "Hoveyzeh"
-owner = MSY
-controller = MSY
-add_core = MSY
-culture = persian
-religion = zoroastrian
+owner = SY4
+controller = SY4
+add_core = SY4
+culture = al_iraqiya_arabic
+religion = sunni
 hre = no
 base_tax = 3
 base_production = 3

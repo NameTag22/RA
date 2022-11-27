@@ -1,4 +1,4 @@
-﻿capital = "Aebrua"
+capital = "Aebrua"
 owner = FND
 controller = FND
 add_core = FND

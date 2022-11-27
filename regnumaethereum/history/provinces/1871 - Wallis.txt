@@ -1,4 +1,4 @@
-﻿capital = "Sion"
+capital = "Sion"
 owner = SAV
 controller = SAV
 add_core = SAV
@@ -14,4 +14,3 @@ discovered_by = eastern
 discovered_by = ottoman
 discovered_by = muslim
 is_city = yes
- 

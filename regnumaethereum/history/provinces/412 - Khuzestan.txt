@@ -1,9 +1,9 @@
 capital = "Ahvaz"
-owner = MSY
-controller = MSY
-add_core = MSY
+owner = SY4
+controller = SY4
+add_core = SY4
 culture = al_iraqiya_arabic
-religion = zoroastrian
+religion = sunni
 hre = no
 base_tax = 4
 base_production = 4

@@ -1,10 +1,10 @@
-﻿capital = "Verdun"
+capital = "Verdun"
 owner = MRD
 controller = MRD
 add_core = MRD
 culture = treverian
 religion = catholic
-hre = yes
+hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3

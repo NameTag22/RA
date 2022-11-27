@@ -1,8 +1,9 @@
 capital = "Thsalenjikha"
-owner = IME
-controller = IME
+owner = GEO
+controller = GEO
+add_core = GEO
 culture = georgian
-religion = apostolic
+religion = orthodox
 hre = no
 base_tax = 3
 base_production = 3

@@ -526,7 +526,6 @@ scandinavian = { #Nordic
 		}
 	}
 	gutnish = {
-		primary = GEE
 		male_names = {
 			Christian Christoph Oskar Adolf August Göran Sigismund Alfred Axel Edvard Gottfrid 
 			Jakob Ludvig Mikael Olof Patrik Rangvald Rettil Sigvard Simon Sture Svante 
@@ -566,7 +565,7 @@ scandinavian = { #Nordic
 		}
 	}
 	ra_geatic = {
-		primary = GEE
+	
 		male_names = {
 			Christian Christoph Oskar Adolf August Göran Sigismund Alfred Axel Edvard Gottfrid 
 			Jakob Ludvig Mikael Olof Patrik Rangvald Rettil Sigvard Simon Sture Svante 
@@ -1284,31 +1283,31 @@ gaullish = {
 	graphical_culture = westerngfx
 	
 	belgican = {
-		primary = 
+		primary = BGC
 	}
 	helvetian = {
-		primary = 
+		primary = HLV
 	}
 	vennetic = {
-		primary = 
+		primary = VNT
 	}
 	santonestic = {
-		primary = 
+		
 	}
 	loigerian = {
-		primary = 
+		 
 	}
 	sequani = {
-		primary = 
+		primary = SEQ
 	}
 	narbonentic = {
-		primary = 
+		
 	}
 	aremorican = {
-		primary = 
+		primary = VRL
 	}
 	treverian = {
-		primary = 
+		
 	}
 	male_names = {
 		Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone 
@@ -1758,7 +1757,7 @@ ra_iberian	= {
 		}
 	}
 	balearic = {
-		primary = 
+	
 		dynasty_names = {
 			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone "de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
 			Téllez-Girón "Manrique de Lara" "de Ávalos" Enríquez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalá"
@@ -4181,6 +4180,7 @@ southern_balkanic = {
 			Pashko Pëllumb Përparim Pjetër Rrok Shpëtim Tahir Viktor Xhevat Ylli Zenel
 			Edi Demaci Edon Dukagjin Haxhi Lishëndri Mensur Kreshnik Nxhiku Rexhep 
 			Bujar Nikolla
+			}
 	dynasty_names = {
 		Zogu Thopia Kastrioti Blinishti Dushmani Jonima Losha Mataranga Zaharia Progon
 	}

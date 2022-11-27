@@ -1,4 +1,4 @@
-﻿capital = "Turgalium"
+capital = "Turgalium"
 owner = FND
 controller = FND
 add_core = FND

@@ -1,7 +1,7 @@
 capital = "Bushehr"
 owner = FRS
 controller = FRS
-culture = persian
+culture = luri
 religion = zoroastrian
 hre = no
 base_tax = 3

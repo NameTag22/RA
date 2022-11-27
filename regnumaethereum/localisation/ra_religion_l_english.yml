@@ -201,3 +201,33 @@
  jainism_rebels_name: "$RELIGION$ Zealots"
  jainism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  jainism_rebels_army: "$RELIGION$ Army"
+ 
+ #suomenusko
+ finnic_rel:0 "Suomenusko"
+ finnic_rel_religion_desc:0 "WIP"
+ old_finnic:0 "Old Suomenusko"
+ 
+ MANI_REL_ASPECT_LONG:0 "Aspect of Faith"
+ MANI_REL_ASPECT_SHORT:0 "aspect"
+ jainism_aspect_long:0 "Aspect of Faith"
+ jainism_aspect_short:0 "aspect"
+ 
+ finnic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ finnic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ finnic_rel_rebels_title: "Religious"
+ finnic_rel_rebels_name: "$RELIGION$ Zealots"
+ finnic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ finnic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ #germanic
+ germanic_rel:0 "Germanic"
+ germanic_rel_religion_desc:0 "WIP"
+ old_germanic:0 "Old Germanic"
+ 
+ 
+ germanic_rel_rebels_demand: "Convert $COUNTRYNAME$"
+ germanic_rel_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ germanic_rel_rebels_title: "Religious"
+ germanic_rel_rebels_name: "$RELIGION$ Zealots"
+ germanic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ germanic_rel_rebels_army: "$RELIGION$ Army"

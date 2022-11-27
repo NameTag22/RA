@@ -1,7 +1,7 @@
 capital = "Marageh"
 owner = QAR
 controller = QAR
-culture = azerbaijani
+culture = kurdish
 religion = zoroastrian
 hre = no
 base_tax = 2

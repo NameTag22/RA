@@ -1,19 +1,19 @@
 capital = "Namur"
 owner = BLF
 controller = BLF
-add_core = BLF
 culture = belgican
 religion = catholic
-hre = yes
+hre = no
 base_tax = 7
 base_production = 7
 base_manpower = 3
 trade_goods = iron
+add_core = BLF
+add_core = BUR
+add_core = HAI
 latent_trade_goods = {
 	coal 
 }
-add_core = BUR
-add_core = HAI
 is_city = yes
 fort_15th = yes
 discovered_by = eastern

@@ -1,6 +1,7 @@
 capital = "Urmiyeh"
-owner = QAR
-controller = QAR
+owner = PER
+controller = PER
+add_core = PER
 culture = kurdish
 religion = zoroastrian
 hre = no

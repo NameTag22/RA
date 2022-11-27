@@ -1,20 +1,20 @@
 capital = "Alba Iulia"
 owner = AKD
 controller = AKD
-add_core = AKD
-culture = transylvanian
+culture = visasian
 religion = orthodox
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
 trade_goods = iron
+add_core = AKD
+add_core = HUN
+add_core = TRA
 latent_trade_goods = {
 	coal 
 }
 is_city = yes
-add_core = HUN
-add_core = TRA
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

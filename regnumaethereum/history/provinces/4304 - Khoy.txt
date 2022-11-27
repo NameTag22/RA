@@ -1,8 +1,9 @@
 capital = "Khoy"
-owner = QAR
-controller = QAR
-culture = azerbaijani
-religion = zoroastrian
+owner = ARM
+controller = ARM
+add_core = ARM
+culture = kurdish
+religion = apostolic
 hre = no
 base_tax = 2
 base_production = 2

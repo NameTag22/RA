@@ -1,19 +1,19 @@
 capital = "Cambray"
 owner = BLF
 controller = BLF
-add_core = BLF
 culture = belgican
 religion = catholic
-hre = yes
+hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 2
 trade_goods = grain
+add_core = BLF
+add_core = BUR
+add_core = HAI
 latent_trade_goods = {
 	coal 
 }
-add_core = BUR
-add_core = HAI
 is_city = yes
 discovered_by = eastern
 discovered_by = western

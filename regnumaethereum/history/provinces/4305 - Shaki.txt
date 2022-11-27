@@ -1,7 +1,7 @@
 capital = "Shaki"
-owner = SRV
-controller = SRV
-add_core = SRV
+owner = ARM
+controller = ARM
+add_core = ARM
 culture = azerbaijani
 religion = apostolic
 hre = no

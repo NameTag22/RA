@@ -1,17 +1,16 @@
-﻿capital = "Valence"
+capital = "Valence"
 owner = CTG
 controller = CTG
 add_core = CTG
 culture = provencian
 religion = catholic
-hre =no
-
+hre = yes
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = wine
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman
 discovered_by = muslim
-trade_goods = wine
-is_city = yes 
+is_city = yes

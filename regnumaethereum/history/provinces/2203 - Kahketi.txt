@@ -1,7 +1,7 @@
 capital = "Telavi"
-owner = GEO
-controller = GEO
-add_core = GEO
+owner = ARM
+controller = ARM
+add_core = ARM
 culture = georgian
 religion = apostolic
 hre = no

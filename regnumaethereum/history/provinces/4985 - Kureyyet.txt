@@ -1,15 +1,13 @@
-#4172 - Jawf
-
+capital = "Kureyyet"
 owner = ANZ
 controller = ANZ
 culture = bedouin_arabic
 religion = sunni
-capital = "Kureyyet"
-trade_goods = livestock
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 2
+trade_goods = livestock
 is_city = yes
 add_core = ANZ
 add_core = FAD

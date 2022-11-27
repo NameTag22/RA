@@ -1,4 +1,4 @@
-﻿capital = "Central1"
+capital = "Central1"
 owner = SEQ
 controller = SEQ
 add_core = SEQ
@@ -8,9 +8,9 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = cloth
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman
 discovered_by = muslim
-trade_goods = cloth
 is_city = yes

@@ -1,17 +1,15 @@
-#140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
-
-owner = ILY # Part of the Bosnian kingdom
+capital = "Doboj"
+owner = ILY
 controller = ILY
+add_core = ILY
 culture = illyrian
 religion = orthodox
-capital = "Doboj" #or Srebrenik
-trade_goods = salt
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
+trade_goods = salt
 is_city = yes
-add_core = ILY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
