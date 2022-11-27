@@ -1,5 +1,9 @@
 capital = "The Azores"
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 3 
+base_production = 3
 base_manpower = 1
+trade_goods = fish
+native_size = 0
+native_ferocity = 0
+native_hostileness = 0

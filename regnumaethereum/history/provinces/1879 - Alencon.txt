@@ -1,0 +1,17 @@
+﻿capital = "Alen�on"
+owner = VRL
+controller = VRL
+add_core = VRL
+culture = aremorican
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = livestock
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+

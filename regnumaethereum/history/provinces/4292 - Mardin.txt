@@ -1,9 +1,9 @@
 capital = "Mardin"
-owner = SYR
-controller = SYR
-add_core = SYR
-culture = aramaic
-religion = nestorian
+owner = SY3
+controller = SY3
+add_core = SY3
+culture = ashirat
+religion = zoroastrian
 hre = no
 base_tax = 2
 base_production = 2

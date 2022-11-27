@@ -1,0 +1,17 @@
+﻿capital = "Sion"
+owner = SAV
+controller = SAV
+add_core = SAV
+culture = helvetian
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+ 

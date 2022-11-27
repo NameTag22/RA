@@ -1,17 +1,15 @@
-#4299 - Shamakhi
-
+capital = "Shamakhi"
 owner = SRV
 controller = SRV
+add_core = SRV
 culture = azerbaijani
-religion = shiite
-capital = "Shamakhi"
-trade_goods = wool
+religion = apostolic
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 2
 base_manpower = 2
+trade_goods = wool
 is_city = yes
-add_core = SRV
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

@@ -1,19 +1,16 @@
-#4118 - Earldom of Desmond
-
+﻿capital = "Tralle"
 owner = IRE
 controller = IRE
+add_core = IRE
 culture = ra_irish
 religion = catholic
 hre = no
 base_tax = 1
 base_production = 3
-trade_goods = copper
 base_manpower = 2
-capital = "Tralle"
-is_city = yes
-add_core = IRE
+trade_goods = copper
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
-
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes

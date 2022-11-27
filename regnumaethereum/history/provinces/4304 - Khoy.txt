@@ -1,15 +1,13 @@
-#2035 - Khoy
-
+capital = "Khoy"
 owner = QAR
 controller = QAR
 culture = azerbaijani
-religion = sunni
-capital = "Khoy"
-trade_goods = wool
+religion = zoroastrian
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
+trade_goods = wool
 is_city = yes
 add_core = QAR
 add_core = TBR
@@ -19,4 +17,3 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-

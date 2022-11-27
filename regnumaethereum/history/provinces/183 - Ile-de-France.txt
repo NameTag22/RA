@@ -1,0 +1,17 @@
+﻿capital = "Paris"
+owner = MRD
+controller = MRD
+add_core = MRD
+culture = aremorican
+religion = catholic
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 7
+trade_goods = paper
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+center_of_trade = 2

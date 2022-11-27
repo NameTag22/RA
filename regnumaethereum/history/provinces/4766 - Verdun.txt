@@ -1,0 +1,17 @@
+﻿capital = "Verdun"
+owner = MRD
+controller = MRD
+add_core = MRD
+culture = treverian
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = grain
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+is_city = yes
+fort_15th = yes
