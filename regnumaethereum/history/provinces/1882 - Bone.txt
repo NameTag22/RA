@@ -1,4 +1,4 @@
-capital = Bone
+capital = "Bone"
 owner = CBL
 controller = CBL
 add_core = CBL
@@ -8,8 +8,9 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = naval_supplies
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-trade_goods = naval_supplies

@@ -8,6 +8,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 trade_goods = cloth
+discovered_by = ra_nordic
 is_city = yes
 add_core = BRU
 add_core = CLB

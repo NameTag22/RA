@@ -1,27 +1,21 @@
-#1768 - Lienz
-
+capital = "Lienz"
 owner = HAB
 controller = HAB
-add_core = TIR
-add_core = HAB
 culture = austrian
 religion = catholic
-base_tax = 4 
-base_production = 3
-trade_goods = iron
-base_manpower = 2
-capital = "Lienz" 
-is_city = yes
 hre = yes
-
-
-
+base_tax = 4
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+discovered_by = ra_nordic
+add_core = TIR
+add_core = HAB
+is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
 1452.1.1 = {
 	owner = STY
 	controller = STY
@@ -32,20 +26,34 @@ discovered_by = ottoman
 	controller = HAB
 	remove_core = STY
 }
-1525.3.1 = { unrest = 6 } # Peasant Revolts
-1525.9.1 = { unrest = 0 }
+1525.3.1 = {
+	unrest = 6
+}
+1525.9.1 = {
+	unrest = 0
+}
 1805.12.26 = {
 	owner = BAV
 	controller = BAV
 	add_core = BAV
 	remove_core = HAB
-} # Treaty of Pressburg
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1809.4.9 = { revolt = { type = nationalist_rebels size = 1.5 } controller = REB } # Tyrolean rebellion
-1810.1.19 = { revolt = {} controller = BAV }
+}
+1806.7.12 = {
+	hre = no
+}
+1809.4.9 = {
+	revolt = {
+		type = nationalist_rebels
+		size = 1.5
+	}
+	controller = REB
+}
+1810.1.19 = {
+	controller = BAV
+}
 1814.5.30 = {
 	owner = HAB
 	controller = HAB
 	add_core = HAB
 	remove_core = BAV
-} # Treaty of Paris, ceded to the Habsburgs
+}

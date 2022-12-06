@@ -9,6 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 trade_goods = naval_supplies
+discovered_by = ra_nordic
 is_city = yes
 discovered_by = KAZ
 discovered_by = CRI

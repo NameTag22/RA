@@ -1,20 +1,16 @@
-#425 - Dagestan
-
-owner = SRV
-controller = SRV 
-culture = dagestani
-religion = shiite
 capital = "Derbent"
-trade_goods = fish
+owner = SRV
+controller = SRV
+add_core = SRV
+culture = dagestani
+religion = zoroastrian
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 1
+trade_goods = fish
+discovered_by = ra_nordic
 is_city = yes
-add_core = SRV
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

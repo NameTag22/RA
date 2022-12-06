@@ -1,4 +1,4 @@
-capital = Tangiers
+capital = "Tangiers"
 owner = CTA
 controller = CTA
 add_core = CTA
@@ -8,8 +8,9 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-fort_15th = yes
 trade_goods = cloth
+discovered_by = ra_nordic
+fort_15th = yes
 center_of_trade = 2
 extra_cost = 16
 discovered_by = western

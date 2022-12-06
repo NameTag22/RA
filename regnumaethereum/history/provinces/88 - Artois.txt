@@ -1,7 +1,6 @@
 capital = "Arras"
 owner = BLF
 controller = BLF
-add_core = BLF
 culture = belgican
 religion = catholic
 hre = no
@@ -9,6 +8,8 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 trade_goods = cloth
+discovered_by = ra_nordic
+add_core = BLF
 add_core = BUR
 add_core = PIC
 discovered_by = western

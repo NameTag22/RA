@@ -8,6 +8,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = iron
+discovered_by = ra_nordic
 add_core = HAB
 add_core = STY
 fort_15th = yes

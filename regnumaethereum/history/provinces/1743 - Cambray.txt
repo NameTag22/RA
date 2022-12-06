@@ -8,6 +8,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 trade_goods = grain
+discovered_by = ra_nordic
 add_core = BLF
 add_core = BUR
 add_core = HAI

@@ -1,17 +1,16 @@
-#213 - Barcelona
-
-owner = VLE	#Alfons V of Aragon
+capital = "Barcelona"
+owner = VLE
 controller = VLE
-add_core = VLE
 culture = ra_catelan
-add_core = CAT
 religion = catholic
 hre = no
-base_tax = 6 
+base_tax = 6
 base_production = 5
-trade_goods = glass 
 base_manpower = 3
-capital = "Barcelona" 
+trade_goods = glass
+discovered_by = ra_nordic
+add_core = VLE
+add_core = CAT
 is_city = yes
 discovered_by = western
 discovered_by = eastern

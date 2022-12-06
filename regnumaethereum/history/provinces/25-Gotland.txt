@@ -1,6 +1,6 @@
 capital = "Visby"
-owner = GOT
-controller = GOT
+owner = VK5
+controller = VK5
 culture = ra_geatic
 religion = norse_pagan_reformed
 hre = no
@@ -8,6 +8,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 trade_goods = wool
+discovered_by = ra_nordic
+add_core = VK5
 add_core = GOT
 add_core = DAN
 add_core = SWE

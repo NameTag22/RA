@@ -8,6 +8,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 trade_goods = iron
+discovered_by = ra_nordic
 add_core = BLF
 add_core = BUR
 add_core = HAI

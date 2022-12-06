@@ -1,4 +1,4 @@
-﻿capital = "Brest"
+capital = "Brest"
 owner = VNT
 controller = VNT
 add_core = VNT
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 trade_goods = naval_supplies
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

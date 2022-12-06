@@ -99,9 +99,9 @@
  
  
  #nestorian
- nestorian:0 "Nestorian"
+ nestorian:0 "Syriac"
  nestorian_religion_desc:0 "WIP"
- old_nestorian:0 "Syriac"
+ old_nestorian:0 "Oriental"
  
  NESTORIAN_ASPECT_LONG:0 "Aspect of Faith"
  NESTORIAN_ASPECT_SHORT:0 "aspect"
@@ -231,3 +231,17 @@
  germanic_rel_rebels_name: "$RELIGION$ Zealots"
  germanic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  germanic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ #amastani
+ amastani:0 "Amastani"
+ amastani_religion_desc:0 "WIP"
+ ikenite:0 "Ikenite"
+ izemrasen:0 "Izemrasen"
+ 
+ 
+ amastani_rebels_demand: "Convert $COUNTRYNAME$"
+ amastani_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ amastani_rebels_title: "Religious"
+ amastani_rebels_name: "$RELIGION$ Zealots"
+ amastani_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ amastani_rebels_army: "$RELIGION$ Army"

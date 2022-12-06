@@ -1,17 +1,16 @@
-#214 - Aragón
-
-owner = VLE		# Alfons V of Aragon
+capital = "Zaragoza"
+owner = VLE
 controller = VLE
-add_core = VLE
-add_core = CAT
 culture = ra_catelan
 religion = catholic
 hre = no
 base_tax = 5
 base_production = 5
-trade_goods = iron
 base_manpower = 3
-capital = "Zaragoza" 
+trade_goods = iron
+discovered_by = ra_nordic
+add_core = VLE
+add_core = CAT
 is_city = yes
 discovered_by = western
 discovered_by = eastern

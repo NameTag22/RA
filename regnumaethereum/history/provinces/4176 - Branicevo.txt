@@ -1,18 +1,17 @@
-#4176 - Branicevo
-
+capital = "Kruevac"
 owner = ILY
 controller = ILY
-culture = moesian          
-add_core =MEO
+culture = moesian
 religion = orthodox
-capital = "Kruševac"
-trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
+trade_goods = livestock
+discovered_by = ra_nordic
+add_core = MEO
 add_core = ILY
+is_city = yes
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

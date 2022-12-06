@@ -1,4 +1,4 @@
-﻿capital = "Chartres"
+capital = "Chartres"
 owner = VRL
 controller = VRL
 add_core = VRL
@@ -9,6 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 6
 trade_goods = cloth
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

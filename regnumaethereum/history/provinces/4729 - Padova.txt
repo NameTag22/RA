@@ -1,16 +1,15 @@
-#4729 - Padova, Padua
-
+capital = "Padova"
 owner = VEN
 controller = VEN
-culture = venetian 
-religion = catholic 
-hre = yes 
+culture = venetian
+religion = catholic
+hre = yes
 base_tax = 4
 base_production = 4
-trade_goods = paper
 base_manpower = 2
-capital = "Padova" 
-is_city = yes 
+trade_goods = paper
+discovered_by = ra_nordic
+is_city = yes
 add_core = VEN
 add_core = PDV
 discovered_by = western

@@ -9,6 +9,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 5
 trade_goods = glass
+discovered_by = ra_nordic
 latent_trade_goods = {
 	coal 
 }

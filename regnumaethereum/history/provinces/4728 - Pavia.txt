@@ -1,21 +1,17 @@
-# 4728 - Pavia
-
+capital = "Pavia"
 owner = GEN
 controller = GEN
-add_core = GEN
 culture = raetian
 religion = catholic
 hre = yes
 base_tax = 6
 base_production = 5
-trade_goods = grain
 base_manpower = 5
-capital = "Pavia"
-is_city = yes	# Estimated
+trade_goods = grain
+discovered_by = ra_nordic
+add_core = GEN
 add_core = MLO
-
-
-
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

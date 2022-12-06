@@ -1,4 +1,4 @@
-﻿capital = "Auch"
+capital = "Auch"
 owner = ERA
 controller = ERA
 add_core = ERA
@@ -9,9 +9,9 @@ base_tax = 5
 base_production = 5
 base_manpower = 5
 trade_goods = wool
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman
 discovered_by = muslim
 is_city = yes
-

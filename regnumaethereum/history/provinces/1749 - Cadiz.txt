@@ -1,17 +1,16 @@
-#1749 - Cadiz
-
-owner = VLE		#Mustapha Sa'd King of Granada
+capital = "Cadiz"
+owner = VLE
 controller = VLE
-add_core = BAE
-add_core = VLE
 culture = turdetan
 religion = catholic
 hre = no
-base_tax = 6 
+base_tax = 6
 base_production = 6
-trade_goods = glass
 base_manpower = 5
-capital = "Cadiz" 
+trade_goods = glass
+discovered_by = ra_nordic
+add_core = BAE
+add_core = VLE
 is_city = yes
 discovered_by = western
 discovered_by = muslim

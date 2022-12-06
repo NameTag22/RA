@@ -1,7 +1,6 @@
 capital = "Thsalenjikha"
 owner = GEO
 controller = GEO
-add_core = GEO
 culture = georgian
 religion = orthodox
 hre = no
@@ -9,6 +8,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 trade_goods = cloth
+discovered_by = ra_nordic
+add_core = GEO
 add_core = geo
 add_core = ime
 discovered_by = western

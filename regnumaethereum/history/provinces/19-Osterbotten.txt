@@ -1,18 +1,20 @@
 capital = "Korsholm"
-owner = SWE
-controller = SWE
+owner = VK7
+controller = VK7
 culture = finnish
-religion = catholic
+religion = finnic_rel
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = fur
+discovered_by = ra_nordic
+discovered_by = eastern
+discovered_by = western
+add_core = VK7
 add_core = SWE
 add_core = FIN
 is_city = yes
-discovered_by = eastern
-discovered_by = western
 1527.6.1 = {
 	religion = protestant
 }

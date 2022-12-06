@@ -1,4 +1,4 @@
-﻿capital = "Bar-le-Duc"
+capital = "Bar-le-Duc"
 owner = RGK
 controller = RGK
 add_core = RGK
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 3
 trade_goods = cloth
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

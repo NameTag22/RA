@@ -1,3 +1,4 @@
+capital = "Sfax"
 owner = GBA
 controller = GBA
 add_core = GBA
@@ -7,9 +8,9 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
+trade_goods = sugar
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-trade_goods = sugar
-

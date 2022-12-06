@@ -1,7 +1,7 @@
 capital = "Bitlis"
 owner = SY3
 controller = SY3
-culture = ashirat
+culture = kurdish
 religion = zoroastrian
 hre = no
 base_tax = 2

@@ -1,5 +1,5 @@
 capital = "Shushtar"
-owner = MSY
+owner = LRI
 controller = MSY
 add_core = MSY
 culture = luri

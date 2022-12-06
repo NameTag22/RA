@@ -1,19 +1,17 @@
-#1765 - Sofia
-
+capital = "Sofia"
 owner = IST
 controller = IST
-culture = moesian          add_core =MEO
+culture = moesian
 religion = orthodox
-capital = "Sofia"
-trade_goods = iron
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
+trade_goods = iron
+discovered_by = ra_nordic
+add_core = MEO
 add_core = IST
-
-
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

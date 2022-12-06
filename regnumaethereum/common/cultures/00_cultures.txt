@@ -8,9 +8,42 @@
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
 
-berber = {
+amazigh = {
 	graphical_culture = muslimgfx
-	amazigh = {
+	tamazight = {
+		dynasty_names = {
+			"Aghiles" "Immegar" "Khedduj" "Mekioussa" "Silina" "Tassadit" "Zawgha"
+		}
+		male_names = {
+			Aderfi Adid Amalu Anebdad Anir Baragsen Ebeggi Jugurtha Masensen Mokrane Ugwistan Winaruz Yuften Ziri Zigza Usus Makoud Maqrin Izemrasen Hmed Baloua Awlagh
+		}
+		female_names = {
+			Aldjya Buyan Cabha Dyhia Illi Ittu Izebboudjen Izlan Baya Kahena Lemta Razika Sura Tadla Tafsut Tagwilalt Taklit Tamalut Tamghra Tasa Tassadit Tayri Tilelli Tima Tintfsut Tiwul Tuda Tuka Zira
+		}
+	}
+	izwawen = {
+		dynasty_names = {
+			"Aghiles" "Immegar" "Khedduj" "Mekioussa" "Silina" "Tassadit" "Zawgha"
+		}
+		male_names = {
+			Aderfi Adid Amalu Anebdad Anir Baragsen Ebeggi Jugurtha Masensen Mokrane Ugwistan Winaruz Yuften Ziri Zigza Usus Makoud Maqrin Izemrasen Hmed Baloua Awlagh
+		}
+		female_names = {
+			Aldjya Buyan Cabha Dyhia Illi Ittu Izebboudjen Izlan Baya Kahena Lemta Razika Sura Tadla Tafsut Tagwilalt Taklit Tamalut Tamghra Tasa Tassadit Tayri Tilelli Tima Tintfsut Tiwul Tuda Tuka Zira
+		}
+	}
+	ra_chaoui = {
+		dynasty_names = {
+			"Aghiles" "Immegar" "Khedduj" "Mekioussa" "Silina" "Tassadit" "Zawgha"
+		}
+		male_names = {
+			Aderfi Adid Amalu Anebdad Anir Baragsen Ebeggi Jugurtha Masensen Mokrane Ugwistan Winaruz Yuften Ziri Zigza Usus Makoud Maqrin Izemrasen Hmed Baloua Awlagh
+		}
+		female_names = {
+			Aldjya Buyan Cabha Dyhia Illi Ittu Izebboudjen Izlan Baya Kahena Lemta Razika Sura Tadla Tafsut Tagwilalt Taklit Tamalut Tamghra Tasa Tassadit Tayri Tilelli Tima Tintfsut Tiwul Tuda Tuka Zira
+		}
+	}
+	libuan = {
 		dynasty_names = {
 			"Aghiles" "Immegar" "Khedduj" "Mekioussa" "Silina" "Tassadit" "Zawgha"
 		}
@@ -1326,7 +1359,6 @@ gaullish = {
 		
 	}
 	outremer = {
-		primary = 
 	}
 	male_names = {
 		Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone 
@@ -2073,7 +2105,7 @@ french	= {
 finno_ugric = { #Ugric
 	graphical_culture = westerngfx
 	karelian = {
-		primary = KRL
+		primary = VK8
 		male_names = {
 			Baeivvet Biejan Bijás Bilzi Dávgon Duttá Gáivvas Elmar Hain Haljas Igapäiv Ihalemb Kahar Eeri Heameel Heatõiv 
 			Hoovatõiv Hurmas Hurmetõiv Hõimulemb Hüvalemb Hüvameel Hüvatõiv Tõnn Uku Vootele Väino Värvo Õigemeel Ülo Küllelemb 
@@ -2094,7 +2126,7 @@ finno_ugric = { #Ugric
 		}
 	}
 	finnish = {
-		primary = FIN
+		primary = VK7
 		dynasty_names = {
 			Bielke Horn Tott Fleming Paijkull Bonde Wrede Soop
 			Mannerheim Furuhjelm Aminoff Armfelt Carpelan Rehbinder Schulman

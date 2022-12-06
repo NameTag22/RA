@@ -1,17 +1,16 @@
-#103 - Piedmont
-
+capital = "Torino"
 owner = SZZ
 controller = SZZ
+add_core = SZZ
 culture = raetian
 religion = catholic
 hre = yes
-base_tax = 6 
+base_tax = 6
 base_production = 7
-trade_goods = wine
 base_manpower = 3
-capital = "Torino"
+trade_goods = wine
+discovered_by = ra_nordic
 is_city = yes
-add_core = SZZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

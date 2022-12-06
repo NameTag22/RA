@@ -1,12 +1,13 @@
 capital = "Tuat"
+culture = tamazight
+religion = amastani
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-trade_goods = unknown
-religion = amastani
-trade_goods = unknown
 discovered_by = sub_saharan
+trade_goods = unknown
+trade_goods = unknown
 native_size = 30
 native_ferocity = 4
 native_hostileness = 9

@@ -1,4 +1,4 @@
-﻿capital = "Paris"
+capital = "Paris"
 owner = MRD
 controller = MRD
 add_core = MRD
@@ -9,6 +9,7 @@ base_tax = 8
 base_production = 8
 base_manpower = 7
 trade_goods = paper
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman

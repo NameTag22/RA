@@ -9,6 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 trade_goods = wine
+discovered_by = ra_nordic
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

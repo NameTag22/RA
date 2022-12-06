@@ -1,4 +1,4 @@
-capital = Kabylia
+capital = "Kabylia"
 owner = CBL
 controller = CBL
 add_core = CBL
@@ -9,8 +9,9 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = iron
-is_city = yes
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+is_city = yes

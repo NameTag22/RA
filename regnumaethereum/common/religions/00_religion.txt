@@ -867,7 +867,6 @@ christian = {
 		misguided_heretic = yes		# Other christians hate them less
 		
 		orthodox_icons = {
-			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
 
 			icon_michael = {
 				discipline = 0.05
@@ -1046,6 +1045,18 @@ christian = {
 		color = { 153 51 0 }
 		heretic = { IKENITE IZEMRASEN }
 		icon = 39
+		country = {
+			tolerance_own = 1
+			cavalry_cost = -0.1
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			cavalry_cost = -0.15
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		fervor = yes
 	}
 	
 	harmonized_modifier = harmonized_christian
@@ -2881,7 +2892,7 @@ zoroastrian_group = {
 	
 	finnic_rel = {
 		icon = 40
-		color = { 238 182 252 }
+		color = { 245 173 240 }
 		country = {
 			shock_damage_received = -0.05
 			land_attrition = -0.2
