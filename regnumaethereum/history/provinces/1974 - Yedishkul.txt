@@ -1,40 +1,18 @@
 capital = "Kherson"
-owner = CRI
-controller = CRI
-add_core = CRI
-culture = crimean
-religion = orthodox
+owner = W07
+controller = W07
+add_core = W07
+culture = ra_sarmatian
+religion = nestorian
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
 trade_goods = salt
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
-1478.6.1 = {
-	add_core = TUR
-}
-1736.6.1 = {
-	controller = RUS
-}
-1739.9.29 = {
-	controller = CRI
-}
-1771.7.1 = {
-	controller = RUS
-}
-1774.7.21 = {
-	controller = CRI
-	add_core = RUS
-	remove_core = TUR
-}
-1783.4.8 = {
-	owner = RUS
-	controller = RUS
-	remove_core = CRI
-}
+is_city = yes

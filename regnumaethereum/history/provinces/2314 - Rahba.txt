@@ -1,6 +1,7 @@
 capital = "Deir ez-Zor"
 owner = SY2
 controller = SY2
+add_core = SY2
 culture = assyrian
 religion = nestorian
 hre = no
@@ -8,6 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
+add_core = SY2
 add_core = SY2
 add_core = FAD
 add_core = SYR

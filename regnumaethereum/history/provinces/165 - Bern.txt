@@ -1,7 +1,7 @@
 capital = "Bern"
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = G01
+controller = G01
+add_core = G01
 culture = helvetian
 religion = catholic
 hre = yes

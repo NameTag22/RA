@@ -1,9 +1,9 @@
 capital = "Tyn"
-owner = CRI
-controller = CRI
-add_core = CRI
-culture = crimean
-religion = orthodox
+owner = W07
+controller = W07
+add_core = W07
+culture = qhazar
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 3
 base_production = 3
@@ -19,34 +19,3 @@ latent_trade_goods = {
 	coal 
 }
 is_city = yes
-1572.8.2 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-}
-1670.3.1 = {
-	revolt = {
-		type = anti_tax_rebels
-		size = 2
-		name = "Stepan Razin"
-	}
-	controller = REB
-	unrest = 6
-}
-1671.4.14 = {
-	controller = RUS
-	unrest = 0
-}
-1773.9.13 = {
-	revolt = {
-		type = anti_tax_rebels
-		size = 2
-		name = "Yemelyan Pugachev"
-	}
-	controller = REB
-	unrest = 6
-}
-1775.2.1 = {
-	controller = RUS
-	unrest = 0
-}

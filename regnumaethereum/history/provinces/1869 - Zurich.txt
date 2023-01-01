@@ -1,8 +1,8 @@
 capital = "Zrich"
-owner = SWI
-controller = SWI
-add_core = SWI
-culture = swiss
+owner = G03
+controller = G03
+add_core = G03
+culture = alamannic
 religion = catholic
 hre = yes
 base_tax = 4
@@ -10,33 +10,8 @@ base_production = 4
 base_manpower = 2
 trade_goods = wool
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1513.7.3 = {
-	unrest = 7
-}
-1515.1.1 = {
-	unrest = 0
-}
-1523.1.1 = {
-	religion = reformed
-	reformation_center = reformed
-}
-1653.1.1 = {
-	unrest = 5
-}
-1654.1.1 = {
-	unrest = 0
-}
-1656.1.1 = {
-	unrest = 7
-}
-1657.1.1 = {
-	unrest = 2
-}
-1806.7.12 = {
-	hre = no
-}
+is_city = yes

@@ -14,8 +14,3 @@ is_city = yes
 native_size = 40
 native_ferocity = 4
 native_hostileness = 9
-1806.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-}

@@ -1,8 +1,8 @@
 capital = "Tana"
-owner = GEN
-controller = GEN
-add_core = GEN
-culture = crimean
+owner = W06
+controller = W06
+add_core = W06
+culture = pontic_hellenic
 religion = orthodox
 hre = no
 base_tax = 3
@@ -20,42 +20,4 @@ extra_cost = 10
 add_permanent_province_modifier = {
 	name = don_estuary_modifier
 	duration = -1
-}
-1471.1.1 = {
-	fort_15th = yes
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-	remove_core = GEN
-	capital = Azaq
-}
-1637.6.1 = {
-	owner = ZAZ
-	controller = ZAZ
-	add_core = ZAZ
-}
-1642.1.1 = {
-	owner = TUR
-	controller = TUR
-}
-1696.7.19 = {
-	controller = RUS
-	capital = Azov
-}
-1700.6.13 = {
-	owner = RUS
-	add_core = RUS
-}
-1713.6.24 = {
-	owner = TUR
-	controller = TUR
-	remove_core = RUS
-}
-1736.6.30 = {
-	controller = RUS
-}
-1739.9.29 = {
-	owner = RUS
-	add_core = RUS
-	remove_core = TUR
 }

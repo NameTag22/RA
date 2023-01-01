@@ -1,6 +1,7 @@
 capital = "As-Suwayda"
 owner = SY0
 controller = SY0
+add_core = SY0
 culture = aramaic
 religion = nestorian
 hre = no
@@ -8,6 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = livestock
+add_core = SY0
 add_core = SY0
 add_core = FAD
 add_core = SYR
@@ -18,20 +20,3 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = BYZ
-1515.1.1 = {
-	discovered_by = POR
-}
-1516.8.24 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
-1665.1.1 = {
-	unrest = 4
-}
-1669.1.1 = {
-	unrest = 2
-}
-1670.1.1 = {
-	unrest = 0
-}

@@ -1,7 +1,7 @@
 capital = "Sochi"
-owner = CIR
-controller = CIR
-add_core = CIR
+owner = W01
+controller = W01
+add_core = W01
 culture = circassian
 religion = orthodox
 hre = no

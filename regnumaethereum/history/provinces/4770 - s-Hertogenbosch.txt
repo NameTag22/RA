@@ -1,8 +1,8 @@
 capital = "'s-Hertogenbosch"
-owner = BRB
-controller = BRB
-add_core = BRB
-culture = flemish
+owner = G18
+controller = G18
+add_core = G18
+culture = frisian
 religion = catholic
 hre = no
 base_tax = 4
@@ -17,51 +17,3 @@ discovered_by = muslim
 discovered_by = ottoman
 is_city = yes
 y = muslim
-1477.1.5 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-}
-1519.1.12 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = HAB
-}
-1549.11.4 = {
-	add_core = NED
-	remove_core = SPA
-}
-1629.1.1 = {
-	controller = NED
-	owner = NED
-}
-1648.10.24 = {
-	hre = no
-}
-1672.5.15 = {
-	controller = FRA
-}
-1678.8.10 = {
-	controller = NED
-}
-1681.1.1 = {
-	base_tax = 10
-	base_production = 10
-}
-1747.9.18 = {
-	controller = FRA
-}
-1748.10.18 = {
-	controller = NED
-}
-1810.7.10 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}
-1813.11.30 = {
-	owner = NED
-	controller = NED
-	remove_core = FRA
-}

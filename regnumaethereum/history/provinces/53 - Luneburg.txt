@@ -1,8 +1,8 @@
 capital = "Lneburg"
-owner = LUN
-controller = LUN
-add_core = LUN
-culture = lower_saxon
+owner = G15
+controller = G15
+add_core = G15
+culture = ra_saxon
 religion = germanic_rel
 hre = no
 base_tax = 3
@@ -10,33 +10,8 @@ base_production = 3
 base_manpower = 2
 trade_goods = salt
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1529.1.1 = {
-	religion = protestant
-}
-1550.1.1 = {
-	base_tax = 4
-	base_production = 4
-}
-1705.8.28 = {
-	owner = HAN
-	controller = HAN
-	add_core = HAN
-}
-1806.7.12 = {
-	hre = no
-}
-1807.7.9 = {
-	owner = WES
-	controller = WES
-	add_core = WES
-}
-1813.10.13 = {
-	owner = HAN
-	controller = HAN
-	remove_core = WES
-}
+is_city = yes

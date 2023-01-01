@@ -1,8 +1,8 @@
 capital = "Liegnitz"
-owner = GLG
-controller = GLG
-add_core = GLG
-culture = schlesian
+owner = G36
+controller = G36
+add_core = G36
+culture = boihemen
 religion = catholic
 hre = no
 base_tax = 4
@@ -10,7 +10,6 @@ base_production = 4
 base_manpower = 2
 trade_goods = glass
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -20,41 +19,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1526.8.30 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-}
-1618.5.23 = {
-	owner = BOH
-	controller = BOH
-	add_core = BOH
-}
-1620.11.8 = {
-	owner = HAB
-	controller = HAB
-	unrest = 5
-	remove_core = BOH
-}
-1648.1.1 = {
-	unrest = 0
-}
-1694.1.1 = {
-	unrest = 4
-}
-1742.1.1 = {
-	owner = PRU
-	controller = PRU
-	add_core = PRU
-}
-1750.1.1 = {
-	base_tax = 8
-	base_production = 8
-	base_manpower = 13
-}
-1763.1.1 = {
-	remove_core = HAB
-}
-1806.7.12 = {
-	hre = no
-}
+is_city = yes

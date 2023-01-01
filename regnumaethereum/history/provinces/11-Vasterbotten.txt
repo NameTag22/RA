@@ -10,18 +10,6 @@ base_production = 1
 base_manpower = 1
 trade_goods = fur
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = eastern
 discovered_by = western
-1527.6.1 = {
-	religion = protestant
-}
-1650.1.1 = {
-	trade_goods = naval_supplies
-}
-1809.3.24 = {
-	controller = RUS
-}
-1809.9.17 = {
-	controller = SWE
-}
+is_city = yes

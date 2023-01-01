@@ -1,8 +1,8 @@
 capital = "Regensburg"
-owner = REG
-controller = REG
-add_core = REG
-culture = bavarian
+owner = G25
+controller = G25
+add_core = G25
+culture = hermian
 religion = catholic
 hre = yes
 base_tax = 5
@@ -10,21 +10,10 @@ base_production = 5
 base_manpower = 3
 trade_goods = cloth
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+is_city = yes
 extra_cost = 16
 center_of_trade = 2
-1542.10.15 = {
-	religion = protestant
-}
-1806.7.12 = {
-	hre = no
-}
-1810.1.6 = {
-	owner = BAV
-	controller = BAV
-	add_core = BAV
-}

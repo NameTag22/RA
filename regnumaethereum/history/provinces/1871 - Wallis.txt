@@ -1,7 +1,7 @@
 capital = "Sion"
-owner = SAV
-controller = SAV
-add_core = SAV
+owner = G02
+controller = G02
+add_core = G02
 culture = helvetian
 religion = catholic
 hre = yes

@@ -1,4 +1,1 @@
 discovered_by = ra_nordic
-1453.1.1 = {
-	discovered_by = western
-}

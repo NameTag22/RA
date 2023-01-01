@@ -1,35 +1,19 @@
 capital = "Velsk"
 owner = NOV
 controller = NOV
-culture = russian
+add_core = NOV
+culture = uralic
 religion = finnic_rel
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = fur
-discovered_by = ra_nordic
-is_city = yes
+add_core = NOV
 add_core = MOS
 add_core = NOV
+discovered_by = ra_nordic
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-1462.1.1 = {
-	owner = MOS
-	controller = MOS
-	add_core = MOS
-	remove_core = NOV
-}
-1503.4.1 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = MOS
-}
-1598.1.7 = {
-	unrest = 5
-}
-1612.5.1 = {
-	unrest = 0
-}
+is_city = yes

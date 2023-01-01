@@ -2,7 +2,7 @@ capital = "Al Quds"
 owner = MAM
 controller = MAM
 add_core = MAM
-culture = al_suryah_arabic
+culture = judahite
 religion = jewish
 hre = no
 base_tax = 5
@@ -20,11 +20,3 @@ discovered_by = east_african
 is_city = yes
 add_province_triggered_modifier = jerusalem_held
 add_province_triggered_modifier = promised_land_modifier
-1517.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
-1750.1.1 = {
-	add_core = SYR
-}

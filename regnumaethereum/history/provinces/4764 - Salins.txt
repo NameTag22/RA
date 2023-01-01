@@ -1,6 +1,7 @@
 capital = "Salins"
 owner = LDC
 controller = LDC
+add_core = LDC
 culture = sequani
 religion = catholic
 hre = yes
@@ -8,11 +9,16 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 trade_goods = salt
-discovered_by = ra_nordic
+base_manpower = 1
+base_manpower = 1
+base_manpower = 1
+base_manpower = 1
+base_manpower = 2
+base_manpower = 2
+add_core = LDC
 add_core = LDC
 add_core = BUR
-base_manpower = 2
-base_manpower = 2
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman
@@ -24,42 +30,3 @@ discovered_by = ottoman
 is_city = yes
 add_local_autonomy = 30
 s = salt
-1477.1.5 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}
-1493.8.19 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-	remove_core = FRA
-}
-1519.1.12 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = HAB
-}
-1665.9.17 = {
-	add_claim = FRA
-}
-1668.2.20 = {
-	controller = FRA
-}
-1668.5.2 = {
-	controller = SPA
-}
-1670.1.1 = {
-	add_core = FRA
-}
-1674.9.1 = {
-	controller = FRA
-}
-1678.9.19 = {
-	owner = FRA
-	remove_core = SPA
-}
-1806.7.12 = {
-	hre = no
-}

@@ -16,19 +16,3 @@ discovered_by = ottoman
 discovered_by = muslim
 is_city = yes
 vered_by = ottoman
-1453.1.1 = {
-	add_core = FRA
-}
-1532.8.4 = {
-	owner = FRA
-	controller = FRA
-}
-1588.12.1 = {
-	unrest = 5
-}
-1594.1.1 = {
-	unrest = 0
-}
-1650.1.1 = {
-	capital = Lorient
-}

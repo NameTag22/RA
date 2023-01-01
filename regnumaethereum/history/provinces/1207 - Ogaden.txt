@@ -13,6 +13,3 @@ discovered_by = east_african
 native_size = 40
 native_ferocity = 4
 native_hostileness = 9
-1550.1.1 = {
-	discovered_by = TUR
-}

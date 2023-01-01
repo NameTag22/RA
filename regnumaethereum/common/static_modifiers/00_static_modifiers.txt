@@ -302,10 +302,10 @@ patriarch_authority_global = {
 }
 
 pasha_state = {
-	local_state_maintenance_modifier = -0.5
-	local_unrest = -2
-	local_build_cost = 0.2
-	local_regiment_cost = 0.2
+	local_years_of_nationalism = -10  
+    statewide_governing_cost = -0.50
+    local_autonomy = 0.1
+    local_manpower_modifier = 0.05
 }
 
 colony_level = {

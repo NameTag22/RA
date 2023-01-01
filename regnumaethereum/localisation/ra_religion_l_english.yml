@@ -1,10 +1,10 @@
 ﻿l_english:
  #religion 
  
+ european_pagan:0 "European Pagan"
  #apostolic
  apostolic:0 "Apostolic"
  apostolic_religion_desc:0 "WIP"
- syriac:0 "Syriac"
  stavros: "Starvos"
  khach: "Khach"
  
@@ -114,6 +114,17 @@
  nestorian_rebels_name: "$RELIGION$ Zealots"
  nestorian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  nestorian_rebels_army: "$RELIGION$ Army"
+ 
+ ra_icon_nestorius:0 "Icon of Mor Nestorius"
+ ra_icon_nestorius_desc:0 "WIP"
+ ra_icon_ibas:0 "Icon of Ibas of Edessa"
+ ra_icon_ibas_desc:0 "WIP"
+ ra_icon_ephrem:0 "Icon of Ephrem of Nisibis"
+ ra_icon_ephrem_desc:0 "WIP"
+ ra_icon_theodore:0 "Icon of Theodore of Antioch"
+ ra_icon_theodore_desc:0 "WIP"
+ ra_icon_eugenios:0 "Icon of Awgin of Clysma"
+ ra_icon_eugenios_desc:0 "WIP"
  
  #zunism
  zunism:0 "Zunism"
@@ -231,6 +242,13 @@
  germanic_rel_rebels_name: "$RELIGION$ Zealots"
  germanic_rel_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  germanic_rel_rebels_army: "$RELIGION$ Army"
+ 
+ ra_wodan:0 "Wodan"
+ ra_dorr:0 "Dorr"
+ ra_tiwz:0 "Tiwz"
+ ra_frawjo:0 "Frawjo"
+ ra_balderz:0 "Baldrez"
+ ra_luki:0 "Lüki"
  
  #amastani
  amastani:0 "Amastani"

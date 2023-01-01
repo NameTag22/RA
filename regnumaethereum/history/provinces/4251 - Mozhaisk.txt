@@ -2,7 +2,7 @@ capital = "Mozhaisk"
 owner = MOS
 controller = MOS
 add_core = MOS
-culture = russian
+culture = ilmen
 religion = slavic_rel
 hre = no
 base_tax = 3
@@ -17,32 +17,3 @@ discovered_by = KAZ
 discovered_by = nomad_group
 is_city = yes
 fort_15th = yes
-1450.1.1 = {
-	discovered_by = SIB
-}
-1503.4.1 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = MOS
-}
-1598.1.7 = {
-	unrest = 5
-}
-1610.7.1 = {
-	controller = PLC
-}
-1613.1.1 = {
-	controller = RUS
-}
-1613.3.3 = {
-	unrest = 0
-}
-1711.1.1 = {
-	base_tax = 6
-	base_production = 6
-}
-1767.1.1 = {
-	base_tax = 7
-	base_production = 7
-}

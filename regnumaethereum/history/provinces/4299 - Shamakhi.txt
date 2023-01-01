@@ -1,8 +1,8 @@
 capital = "Shamakhi"
-owner = ARM
-controller = ARM
-add_core = ARM
-culture = azerbaijani
+owner = W03
+controller = W03
+add_core = W03
+culture = aghwan
 religion = apostolic
 hre = no
 base_tax = 2

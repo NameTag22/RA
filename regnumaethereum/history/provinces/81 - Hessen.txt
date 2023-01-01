@@ -1,8 +1,8 @@
 capital = "Marburg"
-owner = HES
-controller = HES
-add_core = HES
-culture = hessian
+owner = G36
+controller = G36
+add_core = G36
+culture = hermian
 religion = catholic
 hre = no
 base_tax = 4
@@ -10,28 +10,8 @@ base_production = 3
 base_manpower = 3
 trade_goods = wool
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1536.1.1 = {
-	religion = protestant
-}
-1555.1.1 = {
-	base_tax = 14
-	base_production = 14
-}
-1806.7.12 = {
-	hre = no
-}
-1807.7.9 = {
-	owner = WES
-	controller = WES
-	add_core = WES
-}
-1813.10.13 = {
-	owner = HES
-	controller = HES
-	remove_core = WES
-}
+is_city = yes

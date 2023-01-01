@@ -12,15 +12,3 @@ trade_goods = sugar
 discovered_by = chinese
 is_city = yes
 add_local_autonomy = 25
-1521.1.1 = {
-	discovered_by = SPA
-}
-1749.1.1 = {
-	owner = SPA
-	controller = SPA
-	culture = castillian
-	religion = catholic
-}
-1774.1.1 = {
-	add_core = SPA
-}

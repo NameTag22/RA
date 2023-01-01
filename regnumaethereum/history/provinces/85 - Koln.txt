@@ -1,8 +1,8 @@
 capital = "Kln"
-owner = KOL
-controller = KOL
-add_core = KOL
-culture = hessian
+owner = G18
+controller = G18
+add_core = G18
+culture = ra_frankish
 religion = catholic
 hre = no
 base_tax = 6
@@ -10,38 +10,11 @@ base_production = 6
 base_manpower = 3
 trade_goods = paper
 discovered_by = ra_nordic
-is_city = yes
-fort_15th = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+is_city = yes
+fort_15th = yes
 extra_cost = 16
 center_of_trade = 2
-1583.12.17 = {
-	fort_15th = no
-}
-1638.1.1 = {
-	base_tax = 10
-	base_production = 10
-}
-1716.1.1 = {
-	base_tax = 12
-	base_production = 12
-}
-1798.1.1 = {
-	controller = FRA
-}
-1801.2.9 = {
-	owner = FRA
-	add_core = FRA
-}
-1806.7.12 = {
-	hre = no
-}
-1815.6.9 = {
-	owner = PRU
-	controller = PRU
-	add_core = PRU
-	remove_core = FRA
-}

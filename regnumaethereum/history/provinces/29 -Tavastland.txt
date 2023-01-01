@@ -1,6 +1,7 @@
 capital = "Tavastehus"
 owner = VK7
 controller = VK7
+add_core = VK7
 culture = finnish
 religion = finnic_rel
 hre = no
@@ -8,41 +9,10 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = fur
-discovered_by = ra_nordic
+add_core = VK7
 add_core = SWE
 add_core = FIN
-is_city = yes
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
-1527.6.1 = {
-	religion = protestant
-}
-1598.8.1 = {
-	controller = PLC
-}
-1599.7.15 = {
-	controller = SWE
-}
-1600.1.1 = {
-	trade_goods = naval_supplies
-}
-1713.10.6 = {
-	controller = RUS
-}
-1721.8.30 = {
-	controller = SWE
-}
-1742.10.30 = {
-	controller = RUS
-}
-1743.8.7 = {
-	controller = SWE
-}
-1808.2.21 = {
-	controller = RUS
-}
-1809.9.17 = {
-	owner = RUS
-	add_core = RUS
-	remove_core = SWE
-}
+is_city = yes

@@ -8,20 +8,35 @@
  mesissian:0 "Mesissian"
  propontissian:0 "Marmaronian"
  tanatolian:0 "Anatolian"
- mesogeakian:0 "Mesogeakian"
+ mesogeakian:0 "Lydian"
  hellen:0 "Greek"
  cyrenaica:0 "Cyrenaican"
  
  #caucasian
  anatoliakan:0 "Anatoliakan"
+ chechen:0 "Chechen"
+ ra_laz:0 "Laz"
+ aghwan:0 "Aghwan"
  
  #mesopotamian
- mesopotamian:0 "Mesopotamian"
+ mesopotamian:0 "Semetic"
  assyrian:0 "Assyrian"
  aramaic:0 "Aramaic"
+ judahite:0 "Judahite"
  
- #Iranic-Syriac
+ #Iranic
  ashirat:0 "Ashirat"
+ ra_alan:0 "Alan"
+ ra_sarmatian:0 "Sarmatian"
+ 
+ #oghur
+ ungar:0 "Ungar"
+ bolgar:0 "Bolgar"
+ qhazar:0 "Qhazar"
+ avar:0 "Avar"
+ chuvash:0 "Chuvash"
+ hunnic:0 "Hunnic"
+ oghur:0 "Oghur"
  
  #east balkanic
  eastern_balkanic:0 "Getae-Balkanic"
@@ -73,7 +88,7 @@
  celtiberian:0 "Celtiberian"
  lusitan:0 "Lusitan"
  turdetan:0 "Turdetan"
- ra_catelan:0 "Catelan"
+ ra_catelan:0 "Barcinonian"
  ra_valentian:0 "Valentian"
  balearic:0 "Balearic"
  castrox:0 "Castrox"
@@ -115,3 +130,29 @@
  izwawen:0 "Izwawen"
  tamazight:0 "Tamazight"
  
+ #germanic
+ angles:0 "Angles"
+ chaucian:0 "Chaucian"
+ ra_saxon:0 "Saxon"
+ ra_burgundian:0 "Burgündian"
+ rugenic:0 "Rügenic"
+ logian:0 "Logian"
+ quadian:0 "Quadian"
+ bavaron:0 "Bavaron"
+ alamannic:0 "Alammanic"
+ hermian:0 "Hermian"
+ ra_frankish:0 "Frankish"
+ ra_lombard:0 "Lombard"
+ ra_getic:0 "Getic"
+ boihemen:0 "Boihemen"
+ 
+ #slavic
+ ra_slavic:0 "Slavic"
+ wendish:0 "Wendish"
+ duleb:0 "Dulebic"
+ severian:0 "Severian"
+ polan:0 "Polan"
+ khorvat:0 "Khorvat"
+ antes:0 "Antes"
+ dwinian:0 "Dwinian"
+ ilmen:0 "Ilmen"

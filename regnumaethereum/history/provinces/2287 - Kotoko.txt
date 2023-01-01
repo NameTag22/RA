@@ -1,6 +1,7 @@
 capital = "Kotoko"
 owner = YAO
 controller = YAO
+add_core = YAO
 culture = kanuri
 religion = shamanism
 hre = no
@@ -10,10 +11,6 @@ base_manpower = 1
 trade_goods = grain
 discovered_by = sub_saharan
 add_core = YAO
+add_core = YAO
 add_core = KBO
 is_city = yes
-1505.1.1 = {
-	owner = KBO
-	controller = KBO
-	add_core = KBO
-}

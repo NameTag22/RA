@@ -1,8 +1,8 @@
 capital = "Passau"
-owner = PSS
-controller = PSS
-add_core = PSS
-culture = bavarian
+owner = G06
+controller = G06
+add_core = G06
+culture = bavaron
 religion = catholic
 hre = yes
 base_tax = 5
@@ -10,19 +10,8 @@ base_production = 5
 base_manpower = 1
 trade_goods = salt
 discovered_by = ra_nordic
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1704.8.13 = {
-	owner = HAB
-	controller = HAB
-}
-1714.9.7 = {
-	owner = BAV
-	controller = BAV
-}
-1806.7.12 = {
-	hre = no
-}
+is_city = yes

@@ -1,6 +1,7 @@
 capital = "Tadmuriyah"
 owner = SY0
 controller = SY0
+add_core = SY0
 culture = aramaic
 religion = nestorian
 hre = no
@@ -8,6 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 trade_goods = livestock
+add_core = SY0
 add_core = SY0
 add_core = FAD
 add_core = SYR

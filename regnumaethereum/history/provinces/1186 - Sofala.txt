@@ -16,27 +16,3 @@ discovered_by = ottoman
 discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
-1498.1.25 = {
-	discovered_by = POR
-}
-1505.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	unrest = 3
-	add_to_trade_company = POR
-	add_trade_company_investment = {
-		investment = company_warehouse
-		investor = POR
-	}
-}
-1515.1.1 = {
-	unrest = 8
-	trade_goods = ivory
-}
-1586.1.1 = {
-	unrest = 6
-}
-1600.1.1 = {
-	unrest = 0
-}

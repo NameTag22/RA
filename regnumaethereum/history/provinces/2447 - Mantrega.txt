@@ -1,7 +1,8 @@
 capital = "Matrega"
-owner = GEN
-controller = GEN
-culture = pontic_greek
+owner = W06
+controller = W06
+add_core = W06
+culture = pontic_hellenic
 religion = orthodox
 hre = no
 base_tax = 2
@@ -18,25 +19,3 @@ is_city = yes
 add_core = GEN
 add_core = CIR
 add_core = CRI
-1475.5.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
-1781.6.24 = {
-	capital = Anapa
-}
-1784.1.2 = {
-	culture = nogaybak
-	religion = sunni
-}
-1791.6.22 = {
-	controller = RUS
-}
-1792.1.9 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	culture = russian
-	religion = orthodox
-}

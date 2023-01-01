@@ -2,7 +2,7 @@ capital = "Al Karak"
 owner = MAM
 controller = MAM
 add_core = MAM
-culture = bedouin_arabic
+culture = judahite
 religion = jewish
 hre = no
 base_tax = 1
@@ -18,20 +18,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-1516.8.24 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
-1665.1.1 = {
-	unrest = 4
-}
-1669.1.1 = {
-	unrest = 2
-}
-1670.1.1 = {
-	unrest = 0
-}
-1750.1.1 = {
-	add_core = SYR
-}

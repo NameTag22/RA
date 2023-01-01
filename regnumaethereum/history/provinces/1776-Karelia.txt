@@ -1,6 +1,7 @@
 capital = "Kem"
 owner = VK8
 controller = VK8
+add_core = VK8
 culture = karelian
 religion = finnic_rel
 hre = no
@@ -8,23 +9,12 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = salt
-discovered_by = ra_nordic
+add_core = VK8
 add_core = VK8
 add_core = NOV
 add_core = KRL
-is_city = yes
+discovered_by = ra_nordic
 discovered_by = western
 discovered_by = eastern
+is_city = yes
 add_local_autonomy = 25
-1478.1.15 = {
-	owner = MOS
-	controller = MOS
-	add_core = MOS
-	remove_core = NOV
-}
-1503.4.1 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = MOS
-}

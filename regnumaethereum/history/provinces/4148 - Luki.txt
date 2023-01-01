@@ -2,7 +2,7 @@ capital = "Velikiye Luki"
 owner = NOV
 controller = NOV
 add_core = NOV
-culture = novgorodian
+culture = dwinian
 religion = slavic_rel
 hre = no
 base_tax = 2
@@ -15,21 +15,3 @@ discovered_by = western
 discovered_by = nomad_group
 is_city = yes
 fort_15th = yes
-1478.1.15 = {
-	owner = MOS
-	controller = MOS
-	add_core = MOS
-	remove_core = NOV
-}
-1503.4.1 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = MOS
-}
-1598.1.7 = {
-	unrest = 5
-}
-1613.3.3 = {
-	unrest = 0
-}

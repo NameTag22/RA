@@ -1,7 +1,7 @@
 capital = "Adyche"
-owner = CIR
-controller = CIR
-add_core = CIR
+owner = W01
+controller = W01
+add_core = W01
 culture = circassian
 religion = orthodox
 hre = no
@@ -16,12 +16,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 is_city = yes
-1555.1.1 = {
-	owner = CIR
-	controller = CIR
-}
-1801.1.18 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-}

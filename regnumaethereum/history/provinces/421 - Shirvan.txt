@@ -1,9 +1,9 @@
 capital = "Baku"
-owner = SRV
-controller = SRV
-add_core = SRV
-culture = azerbaijani
-religion = zoroastrian
+owner = W03
+controller = W03
+add_core = W03
+culture = aghwan
+religion = apostolic
 hre = no
 base_tax = 3
 base_production = 3

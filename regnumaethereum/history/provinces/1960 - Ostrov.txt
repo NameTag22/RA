@@ -2,7 +2,7 @@ capital = "Ostrov"
 owner = PSK
 controller = PSK
 add_core = PSK
-culture = novgorodian
+culture = dwinian
 religion = slavic_rel
 hre = no
 base_tax = 2
@@ -18,21 +18,3 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 is_city = yes
-1510.1.13 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = PSK
-}
-1581.9.1 = {
-	controller = PLC
-}
-1582.1.15 = {
-	controller = RUS
-}
-1598.1.7 = {
-	unrest = 8
-}
-1613.3.3 = {
-	unrest = 0
-}

@@ -1,13 +1,15 @@
 capital = "Khoy"
 owner = ARM
 controller = ARM
-culture = kurdish
+add_core = ARM
+culture = armenian
 religion = apostolic
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
 trade_goods = wool
+add_core = ARM
 add_core = ARM
 add_core = QAR
 add_core = TBR
